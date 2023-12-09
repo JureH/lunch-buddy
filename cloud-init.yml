@@ -1,0 +1,38 @@
+#cloud-config
+
+# Set the hostname of the instance
+hostname: lunch-buddy-app-instance
+
+# Install required packages
+packages:
+  - git
+  - nodejs
+  - npm
+  - mongodb
+
+# Clone the MEAN app repository from GitHub
+runcmd:
+  - git clone https://github.com/your-username/your-mean-app.git
+  - cd your-mean-app
+  - npm install
+
+# Start MongoDB service
+runcmd:
+  - service mongod start
+
+# Build and start the Node.js server
+runcmd:
+  - npm start
+
+# Navigate to the Angular app directory
+runcmd:
+  - cd client
+
+# Install Angular dependencies
+runcmd:
+  - npm install
+
+# Build and start the Angular app
+runcmd:
+  - ng build --prod
+  - ng serve --host 0.0.0.0
