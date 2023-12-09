@@ -1,0 +1,1120 @@
+[
+    {
+        "_id": "6ee0525d98df",
+        "name": "Njam njam",
+        "address": "Nove Fužine 49, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0545763,
+            14.5660139
+        ],
+        "phone_number": "/",
+        "rating": 4.1,
+        "website": "/",
+        "comments": [
+            {
+                "username": "janezz55",
+                "comment": "Slabo si umiva roke, ampak drugace ok.\n\nUPDATE: Hygiene problems persist. Mice and all sorts of critters are going to share your meal.",
+                "date": "2022-08-26T12:12:30Z"
+            },
+            {
+                "username": "Dr. Awais Ikram",
+                "comment": "Best Bosnian Fast Food in Slovenia...Its for sure Halaal for Muslims.",
+                "date": "2016-07-15T09:41:27Z"
+            },
+            {
+                "username": "marko tavcar",
+                "comment": "Slow service. However good food for good price.\nI was having 10 cevapcici and they asked 4€ for it.",
+                "date": "2017-10-01T16:21:55Z"
+            },
+            {
+                "username": "Žan Vrhovec",
+                "comment": "worst kebab ever",
+                "date": "2022-11-03T09:26:42Z"
+            },
+            {
+                "username": "Bajro Pasagic",
+                "comment": "The best jufka in town",
+                "date": "2018-07-01T20:37:14Z"
+            }
+        ]
+    },
+    {
+        "_id": "a52723630849",
+        "name": "Gostilna in pizzerija Jurman",
+        "address": "Zaloška cesta 151, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0564228,
+            14.5564351
+        ],
+        "phone_number": "051 358 358",
+        "rating": 4.4,
+        "website": "http://www.jurman.si/",
+        "comments": [
+            {
+                "username": "Gregor Šinkovec",
+                "comment": "A large restaurant with a long tradition along one of the major streets in Ljubljana. The food is okay and the portions are large, but the prices are somewhat steep for this part of town. They have a lot of parking space and a lot of sitting room, so there's usually no need to reserve a table. A selection of lunch menus is served daily, but they also have a large a la carte menu if nothing strikes your fancy.",
+                "date": "2023-11-02T15:54:35Z"
+            },
+            {
+                "username": "Ed Med",
+                "comment": "Laura, our lovely waitress at Jurman bar, made our experience truly exceptional with her warm and attentive service. She had a genuine smile that brightened our evening, and her recommendations for the menu were spot on! Her professionalism and kindness added an extra touch of warmth to our visit, making us feel like valued guests. We were so impressed by her grace and dedication to ensuring we had a fantastic time. Kudos to Laura for making our night memorable!",
+                "date": "2023-07-20T06:02:03Z"
+            },
+            {
+                "username": "Sonja Leskovar",
+                "comment": "Very very good food, we did not wait long although the place was full, service great and the atmosphere, as well.\nAnimals friendly. I do recommend the place if you are hungry and want to eat well.",
+                "date": "2023-08-11T06:55:23Z"
+            },
+            {
+                "username": "Wilson Foo",
+                "comment": "In true Italian dinner style, our set dinner consisted of a Primo, a Secondi and a dessert. The primo was truffles fettuccine. Very creamy with strong truffles flavour, the pasta was cooked just right. The secondi was fried calamari with fries. Nothing to shout about but portion was big. The dessert was crepes with Nutella filling.\n\nSpecial mention about their house white. At Euros 1.50 per glass, it is really value for money. Not fantastic wine but at this price point……",
+                "date": "2023-10-06T21:32:25Z"
+            },
+            {
+                "username": "Žan Gostenčnik",
+                "comment": "Tasty food for normal price. Ambient is pleasant.  We got fish plate very quickly. Menu is very long and you got a lot of choices.",
+                "date": "2023-09-14T07:30:06Z"
+            }
+        ]
+    },
+    {
+        "_id": "b724c1e34391",
+        "name": "Restavracija Antaro",
+        "address": "22, Leskoškova cesta 9e, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0627579,
+            14.5602408
+        ],
+        "phone_number": "069 703 790",
+        "rating": 4.1,
+        "website": "http://www.antaro.si/",
+        "comments": [
+            {
+                "username": "Damjan Kržišnik",
+                "comment": "The place offers a good value for money. The plate of fresh cooked meal is 8.5€ and that includes small salad. In the area this is the top restavrant. If they will keep it this way it is going to prosper. Slme.times.they offer vegetarian option.",
+                "date": "2023-10-05T13:22:06Z"
+            },
+            {
+                "username": "Davor Val Vega",
+                "comment": "It's ok. Would be nice to have some vegan options though. Salad and potatoes are ok, but some more options would be nice.",
+                "date": "2019-02-15T11:53:46Z"
+            },
+            {
+                "username": "Uros Mesaric",
+                "comment": "Cheap but OK. For local lunches.\nYou can eat for as cheap as 5 EUR.",
+                "date": "2016-06-17T08:01:41Z"
+            },
+            {
+                "username": "Borut Perko",
+                "comment": "Good restaurant for a nice lunch!",
+                "date": "2017-03-19T17:01:34Z"
+            },
+            {
+                "username": "Monika Cerinsek",
+                "comment": "It is ok for lunch",
+                "date": "2018-09-01T05:07:08Z"
+            }
+        ]
+    },
+    {
+        "_id": "805367c2f04f",
+        "name": "Restavracija Mingo",
+        "address": "Mingo restavracija, Letališka cesta 35, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0629181,
+            14.57182980000001
+        ],
+        "phone_number": "030 740 799",
+        "rating": 4.7,
+        "website": "http://restavracija-mingo.com/",
+        "comments": [
+            {
+                "username": "Marina Tešić",
+                "comment": "Amazing, delicious food. All the time, at every order. Great delivery and service. Keep on!",
+                "date": "2021-04-14T20:35:51Z"
+            },
+            {
+                "username": "Lojze Primož Pečan",
+                "comment": "Cozy place for a quick and cheap meal.",
+                "date": "2019-11-05T12:06:06Z"
+            },
+            {
+                "username": "Oskar Koščak",
+                "comment": "Miha is always smiling. Good daddy. :)",
+                "date": "2023-09-25T09:08:08Z"
+            },
+            {
+                "username": "Miha Zobavnik",
+                "comment": "Great, affordable and good",
+                "date": "2023-02-03T05:35:52Z"
+            },
+            {
+                "username": "Luka Turk",
+                "comment": "Great food and nice service. The staff is very friendly. I will be happy to return.",
+                "date": "2020-08-24T09:23:50Z"
+            }
+        ]
+    },
+    {
+        "_id": "653da621f0ba",
+        "name": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
+        "address": "Nove Fužine 43, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0549539,
+            14.5638793
+        ],
+        "phone_number": "(01) 544 54 54",
+        "rating": 4.4,
+        "website": "https://www.malcajt.com/osrednjeslovenska/ljubljana/okrepcevalnica-azzurro.html",
+        "comments": [
+            {
+                "username": "Quick ScoPe",
+                "comment": "Good kebab and jufka although the pizza is a bit overpriced.",
+                "date": "2022-02-17T13:26:26Z"
+            },
+            {
+                "username": "Elena Trower",
+                "comment": "Lovely food, a but pricey but worth it if you love fish, I mean LOVE fish",
+                "date": "2019-04-22T17:08:05Z"
+            },
+            {
+                "username": "Alania Melkic",
+                "comment": "3€ for 100g of bad salad",
+                "date": "2022-06-08T18:23:06Z"
+            },
+            {
+                "username": "David Lenart",
+                "comment": "Trilece on top",
+                "date": "2023-09-28T21:26:31Z"
+            },
+            {
+                "username": "Igor Aleksovski",
+                "comment": "Great coffee for no more than 1 EUR.  ;)",
+                "date": "2018-02-11T19:36:07Z"
+            }
+        ]
+    },
+    {
+        "_id": "8bd947eb18b7",
+        "name": "Gostilna in pizzerija BREZA",
+        "address": "Letališka cesta 27, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.06282239999999,
+            14.5632579
+        ],
+        "phone_number": "040 893 703",
+        "rating": 4,
+        "website": "http://www.facebook.com/gostilnabreza",
+        "comments": [
+            {
+                "username": "Dejan T. Tanaskovič",
+                "comment": "One of the rare restaurants in industrial part of the city. Solid food, lots of daily (lunch) menus. Sunny terrace, regretfully next to access road. Not recommended if you want to seat inside during cold periods, the ventilation is poor and your clothes's kitchen smell will remind you of the visit for days - so pick a sunny day and sit outside and you're good :)",
+                "date": "2019-03-19T07:22:08Z"
+            },
+            {
+                "username": "Gregor Cerinšek",
+                "comment": "Somewhat goos food - good for snacks. Things bothering me, are lack of food, in sense of, they ran out of certain daily menu really fast and suddenly, and while in those days, you can check menu of every restaurant on internet, you cannot check for Breza.\nPrices range from 6€(fried cheese with french fries) onwards.",
+                "date": "2018-11-22T21:30:43Z"
+            },
+            {
+                "username": "Kris T",
+                "comment": "Breza is nice food place for the offices around. They have good lunch menu, nothing complicated but tasty. Service is fast and they have nice tables outside. Recommend for good food.",
+                "date": "2019-10-19T20:19:08Z"
+            },
+            {
+                "username": "Miha Urbanija",
+                "comment": "Good varety of daily menus. Solid food at reasonable price and fast service. Outdoor sitting/terrace is a big plus during summer.",
+                "date": "2019-12-12T07:00:46Z"
+            },
+            {
+                "username": "Matjaz Demsar",
+                "comment": "Good food, average prices. I recommend their lasagna, we go there when we want to have a good one.",
+                "date": "2019-01-25T10:13:29Z"
+            }
+        ]
+    },
+    {
+        "_id": "d2bad5f401a4",
+        "name": "Royal Best kebab",
+        "address": "Nove Fužine 49, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0545763,
+            14.5660139
+        ],
+        "phone_number": "070 575 365",
+        "rating": 3.1,
+        "website": "/",
+        "comments": [
+            {
+                "username": "Matic Podgoršek",
+                "comment": "Old stale bread and half empty kebab. At the price of 4.50€ one would expect more. When asked to be a bit more generous as you are willing to pay more to get what you were supposed to you get laughed at and told off.\nUsed to be a regular customer but with an attitude like that they surely won’t see me again.",
+                "date": "2023-04-15T23:28:18Z"
+            },
+            {
+                "username": "Scania “Scaniav8” V8",
+                "comment": "Perfect",
+                "date": "2022-11-01T10:28:20Z"
+            },
+            {
+                "username": "Dominik Boh",
+                "comment": "Ordered AMERICAN HOT DOG, received? A kebab bun with an excessive amount of vegetables, nowhere near the shape or taste of a hot dog and the cheapest possible hot dog. Shame.",
+                "date": "2022-12-18T18:33:19Z"
+            },
+            {
+                "username": "Nina Sretenović",
+                "comment": "Bad service, rude staff, repeat the order five times and still get the wrong one. Waste of time and money!",
+                "date": "2023-04-20T00:18:08Z"
+            },
+            {
+                "username": "marisa anušić",
+                "comment": "Old toasted bread and cheap woody hot dogs from Lidl👎 if you ask for more salad, you get three more strips of salad. Bad..",
+                "date": "2023-03-16T13:29:05Z"
+            }
+        ]
+    },
+    {
+        "_id": "9e7b2f49fb94",
+        "name": "Gostilnica in pizzerija Perla",
+        "address": "Leskoškova cesta 11, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.062891,
+            14.558569
+        ],
+        "phone_number": "069 703 780",
+        "rating": 4.1,
+        "website": "http://www.antaro.si/",
+        "comments": [
+            {
+                "username": "Gregor Cerinšek",
+                "comment": "Not so bad, but there are much better places to eat nearby. Food is blend-no taste and kinda small portions, only thing good about it, is price if yougo there for snack during work, it will cost you 4.9€ (as of this moment).",
+                "date": "2018-11-22T06:31:28Z"
+            },
+            {
+                "username": "Alex Stopar",
+                "comment": "Good food for very modest price. Tables are a bit small and crammed.",
+                "date": "2019-01-11T15:02:20Z"
+            },
+            {
+                "username": "Bisera Chalovska",
+                "comment": "Polite and very nice stuff, food is more than good for money.",
+                "date": "2018-03-20T10:23:40Z"
+            },
+            {
+                "username": "dean schmautz",
+                "comment": "Super hrana in postrežbs",
+                "date": "2018-12-14T19:09:32Z"
+            },
+            {
+                "username": "Primož Klanjšek",
+                "comment": "Nice place for quick lunch.",
+                "date": "2019-06-26T06:36:36Z"
+            }
+        ]
+    },
+    {
+        "_id": "cc651458ff86",
+        "name": "FNX Kavarna & Bistro",
+        "address": "Letališka cesta 29a, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.06285679999999,
+            14.5660242
+        ],
+        "phone_number": "051 719 626",
+        "rating": 4.3,
+        "website": "http://www.fnx.si/",
+        "comments": [
+            {
+                "username": "Bojan Kuruc",
+                "comment": "Great place for business lunch if you are in the area. Nice setup inside. Free parking in front of the restaurant. Staff was very nice ans fast. Prices are normal for this type of restaurants.",
+                "date": "2022-03-21T16:15:34Z"
+            },
+            {
+                "username": "Jakob Nedoh",
+                "comment": "Delicious 🤤",
+                "date": "2023-03-12T10:40:53Z"
+            },
+            {
+                "username": "Katarina Mladenovic",
+                "comment": "Delicious coffee, and nice stuff.",
+                "date": "2019-11-11T20:36:47Z"
+            },
+            {
+                "username": "Sandi Avbelj",
+                "comment": "It is very good designed restaurant with potential, but opened only from 9AM to 2PM, and the quality of the food is not always as expected.",
+                "date": "2022-10-10T05:37:38Z"
+            },
+            {
+                "username": "Jan Baksa Lesjak",
+                "comment": "Amazing staff, offer and ambient. Highly recommended for quick business lunches with good quality food and service.",
+                "date": "2022-09-16T10:42:21Z"
+            }
+        ]
+    },
+    {
+        "_id": "097641238735",
+        "name": "Luna caffe",
+        "address": "1260 Ljubljana - Polje, Slovenia",
+        "coordinates": [
+            46.0556393,
+            14.5840431
+        ],
+        "phone_number": "/",
+        "rating": 4.5,
+        "website": "/",
+        "comments": []
+    },
+    {
+        "_id": "3acdf9bf8361",
+        "name": "Gostilna Euro Gurman",
+        "address": "Zadobrovška cesta 18, 1260 Ljubljana - Polje, Slovenia",
+        "coordinates": [
+            46.057448,
+            14.584187
+        ],
+        "phone_number": "(01) 529 15 50",
+        "rating": 4.1,
+        "website": "/",
+        "comments": [
+            {
+                "username": "Vojc Asia",
+                "comment": "Good food for good price.",
+                "date": "2023-10-08T16:36:03Z"
+            },
+            {
+                "username": "Miha Barboric",
+                "comment": "Okay place for a quick and cheap meal, but don't expect too much.",
+                "date": "2019-09-16T13:29:59Z"
+            },
+            {
+                "username": "Miha Zakotnik",
+                "comment": "Excellent food but a bit pricey dishes",
+                "date": "2017-10-25T13:15:12Z"
+            },
+            {
+                "username": "Lamy Mahieu",
+                "comment": "Very good food and service for a honest price!!",
+                "date": "2017-09-11T19:29:35Z"
+            },
+            {
+                "username": "Uros Juvan",
+                "comment": "Great Slovenian and balcan food",
+                "date": "2017-02-04T07:33:24Z"
+            }
+        ]
+    },
+    {
+        "_id": "3ab56d2e6b0c",
+        "name": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+        "address": "Rusjanov trg 1, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.05410469999999,
+            14.5637524
+        ],
+        "phone_number": "(01) 589 01 40",
+        "rating": 3.8,
+        "website": "/",
+        "comments": [
+            {
+                "username": "maja maja",
+                "comment": "The arrogance and ignorance of the waitresses. Very bad experience.",
+                "date": "2021-10-17T13:07:17Z"
+            }
+        ]
+    },
+    {
+        "_id": "e816b4f613e4",
+        "name": "5DU-sendvič4you, Petra Mihajlović s.p.",
+        "address": "Zaloška cesta 168, 1260 Ljubljana - Polje, Slovenia",
+        "coordinates": [
+            46.0548935,
+            14.5760481
+        ],
+        "phone_number": "041 721 709",
+        "rating": 4.878507407906312,
+        "website": "http://najboljsi-sendvici.si/contact.html",
+        "comments": []
+    },
+    {
+        "_id": "9e8b50612720",
+        "name": "Zmajev paviljon",
+        "address": "Kvedrova c. 5a, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.07027739999999,
+            14.5419773
+        ],
+        "phone_number": "(01) 541 70 60",
+        "rating": 4.3,
+        "website": "https://www.malcajt.com/osrednjeslovenska/ljubljana/azijska-restavracija-zmajev-paviljon.html",
+        "comments": [
+            {
+                "username": "Mark Volcansek",
+                "comment": "Best Chinese restaurant in town, great food and service, prices are very reasonable, parking gets a bit full so not so easy to park sometimes. They also offer many types of tasty sushi!",
+                "date": "2023-08-31T17:28:21Z"
+            },
+            {
+                "username": "Dom",
+                "comment": "We stopped by for a late lunch, since we heard good things about it. Staff was constantly polite and welcomed us kindly. The service was quick and friendly. We had two chicken dishes (curry & vegetables with almonds) with rice. Both were  alright, just not strong in flavor. Besides, we enjoyed a sweet-sour soup with was good. Lastly, the yasmin tea was tasty as well. The location is central, with parking possibilities. The interior design is unique with Chinese characteristics. The price for tea and soup was alright. However, the chicken/rice dishes in my opinion a bit too expensive.\nAt the end we were served a plum apperative and a good luck cookie, each. Very kind!!!\nOverall, interesting place to have lunch at.",
+                "date": "2018-01-03T11:28:26Z"
+            },
+            {
+                "username": "Marisa Kogovšek",
+                "comment": "Friendly staff, big selection of menu, a place to go when you are craving for sushi and chinese food at the same time in Ljubljana. We will be back for sure.",
+                "date": "2022-10-10T19:07:14Z"
+            },
+            {
+                "username": "H Maag",
+                "comment": "Sushi was really good.",
+                "date": "2023-06-05T17:39:09Z"
+            },
+            {
+                "username": "Julia",
+                "comment": "Good sushi 🍣,  very tasty fried fruit 😋",
+                "date": "2022-02-05T18:58:45Z"
+            }
+        ]
+    },
+    {
+        "_id": "060aee6b85ba",
+        "name": "Ajda Premium Burger",
+        "address": "Španska ulica, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0630772,
+            14.5456557
+        ],
+        "phone_number": "041 898 777",
+        "rating": 4.4,
+        "website": "https://ajda-skupina.si/",
+        "comments": [
+            {
+                "username": "Sergio Hernández",
+                "comment": "Sunday? Hungry? Near BTC? Ajda Burger is a great option.\nOne of the most affordable restaurants with a good selection in the menu: Burgers, chicken burgers, salads or healthy plates. Ajda burger is a great option, located in the neighborhood of BTC, this option is always great if you are hungry and want a great money-value meal. Open until late night including Saturdays and Sundays which is appreciated.\nI very often come with my wife here as I enjoy Ajda burger and always there is a salad or grill vegetable option for her.\nThe staff always friendly and listening to customers… highly recommended!",
+                "date": "2023-10-31T09:24:56Z"
+            },
+            {
+                "username": "שירי פלג",
+                "comment": "Great meal, good service\nEven late night  - thank you",
+                "date": "2023-07-25T20:36:23Z"
+            },
+            {
+                "username": "Behnam Parizad Benam",
+                "comment": "This place is one of my favorite places to go in Slovenia. All of the staff manner are kindly. The quality of the ingeridients is high and always you taste fresh things. This is also nice to see this place keep the quality during time.",
+                "date": "2023-02-05T16:29:42Z"
+            },
+            {
+                "username": "Eldin Murić",
+                "comment": "The food is really delicious, especially the burgers. Very well made with great presentation. They even offer some Balkan dishes for example, Čevapi or Burek. Employees are very kind and the service is fast. Would recommend to anybody with an empty stomach!",
+                "date": "2019-12-26T10:29:16Z"
+            },
+            {
+                "username": "Mo Ta",
+                "comment": "Food was great",
+                "date": "2023-06-16T12:30:05Z"
+            }
+        ]
+    },
+    {
+        "_id": "3154085b8db0",
+        "name": "Chang, Ljubljana BTC",
+        "address": "Ameriška ulica 3, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.06877739999999,
+            14.541966
+        ],
+        "phone_number": "(01) 542 88 88",
+        "rating": 4.7,
+        "website": "https://www.chang.si/",
+        "comments": [
+            {
+                "username": "Neža Pečan",
+                "comment": "The best Chinese restaurant in Ljubljana. The eggplant on hot plate (jajčevec na vroči plošči) is exceptional, had it 3 times so far, and couldn't believe the taste each time. I normally dislike eggplants but I urge everyone to try this.\nThere is an option to have it with meat, I always order the veg-only version.\nSome of the other dishes we tried were young peas in a pod, tofu in gong bao wok and sichuan tofu. All were great, but nothing beats the eggplants. The portions are big, so we usually order 1 dish per 2 persons.\nMy friends had a bunch of sushi and really liked it.",
+                "date": "2023-06-05T12:01:47Z"
+            },
+            {
+                "username": "Anja",
+                "comment": "Me and my family love this restaurant. It has nice ambient, a big parking for free in front of the restaurant and delicious food. What we liked is that they are creative with flavours and not all food tastes the same  which might be the case in some chinese restaurants. They have good noodles with shrimps, shrimos in tempura, rice gnocchi with egg and chicken and shrimps on a hot plate. Sushi looked good as well, but we did not try it yet as it is very hard to get a good sushi in Slovenia. They could improve in the dessert section. Desserts are ok, but as they are very good at other dishes, they could be as well at the last sweet part. Perhaps they could add some more Japan sweets as they have also Japan kitchen, such as Japanese cheesecake, Matcha Swiss roll, Dorayaki, chocolate Chiffon cake, Purin and much more. Overall we were all very satisfied with the food and will return for sure. I highly reccomend this restaurant.",
+                "date": "2023-04-03T11:28:44Z"
+            },
+            {
+                "username": "Boris Maric",
+                "comment": "Very large portions, delicious sushi and chicken dishes.",
+                "date": "2023-11-02T19:03:35Z"
+            },
+            {
+                "username": "Nejc Hötzl",
+                "comment": "Very good Chinese food. We are here 1 to 2 times a month and we have never been disappointed. They also have company dinners or lunches here.",
+                "date": "2023-08-08T12:12:01Z"
+            },
+            {
+                "username": "D C",
+                "comment": "We have been a lot of times in Chang Koper which is great and this was oir first time in Ljubljana. We were thinking that probably it will not be on the same level but we were very wrong. Everything  from the place itself,  the service and food is just amazing! Highly recommended!",
+                "date": "2022-08-20T08:23:16Z"
+            }
+        ]
+    },
+    {
+        "_id": "0dbe9cf86831",
+        "name": "Radisson Blue restaurant",
+        "address": "Bratislavska cesta, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0661327,
+            14.5513723
+        ],
+        "phone_number": "/",
+        "rating": 2.65951799459148,
+        "website": "/",
+        "comments": []
+    },
+    {
+        "_id": "d2e5a1e55959",
+        "name": "diVino restaurant & bar",
+        "address": "Ameriška ulica 8, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0669698,
+            14.5414528
+        ],
+        "phone_number": "(01) 585 22 81",
+        "rating": 4.5,
+        "website": "https://www.divino.si/",
+        "comments": [
+            {
+                "username": "Zlatko Mahic",
+                "comment": "DiVino restaurant in BTC Ljubljana is a hidden gem. I recently had the opportunity to dine there and was blown away by the lamb leg. It was cooked to perfection, juicy and tender, with a perfectly crispy crust. The accompanying vegetables were also perfectly cooked and seasoned.\n\nI also appreciated the attentive and friendly service. The staff was knowledgeable about the menu and made great recommendations.\n\nOverall, I had a wonderful dining experience at DiVino. I would highly recommend it to anyone looking for a delicious and memorable meal.\n\nI would definitely recommend the lamb leg at DiVino to anyone looking for a truly special dining experience.",
+                "date": "2023-09-20T18:15:06Z"
+            },
+            {
+                "username": "Doris Karapici",
+                "comment": "We had a great evening here. The food was really delicious and so was the local Slovenian Wine. The staff was very happy, polite and ready to help. I would highly recommend if you want and Italian style restaurant.",
+                "date": "2021-10-30T19:39:43Z"
+            },
+            {
+                "username": "Hubert B.",
+                "comment": "This restaurant has a lot to offer. The food was good and the service pleasant. The interior of the place and how the waiters are dressed give you the feeling you are at a high-end place. The location, however, is not glamorous at all. The restaurant is located in between the mall, supermarkets and outlets, and across a Subways. If it would have been located in Ljubljana city center, then it would have been a hit, but now it felt a bit odd as a dinner place. For lunch time, it would probably be a nice/better option as the area will then be more lively.",
+                "date": "2023-08-04T05:54:33Z"
+            },
+            {
+                "username": "Andreja Lehmann",
+                "comment": "Delicious food with great staff. We had Cesar Salad and white chocolate mousse with mango sauce and strawberries aside. The food is presented really tasty and a real eye catcher. Thank you for a great evening!",
+                "date": "2022-08-13T17:56:14Z"
+            },
+            {
+                "username": "Antoine And The Wines",
+                "comment": "A sweet and fine dining experience with a very casual and trendy staff and some of the best wines ! #maresanto",
+                "date": "2022-05-15T08:40:04Z"
+            }
+        ]
+    },
+    {
+        "_id": "6eb1dd70e48c",
+        "name": "Restaurant Pogača",
+        "address": "Pokopališka ulica 34, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0630446,
+            14.5316965
+        ],
+        "phone_number": "(01) 540 44 82",
+        "rating": 4.4,
+        "website": "http://www.pogaca.si/contact.php",
+        "comments": [
+            {
+                "username": "Никита Тузов",
+                "comment": "One of the best restaurants in Ljubljana. Very good cook, very kind staff. And the best goulash I have ever tasted.",
+                "date": "2023-11-07T15:09:13Z"
+            },
+            {
+                "username": "Attila Agg",
+                "comment": "Very nice and cute place. Waitor was very friendly and helpful. The portion was very big, cod not even finish. Very reasonable prices. Come back for sure and recommend to everyone!",
+                "date": "2023-08-06T05:27:55Z"
+            },
+            {
+                "username": "Diego Fernández",
+                "comment": "A great place, nice people, delicius food and good price",
+                "date": "2023-07-19T19:50:05Z"
+            },
+            {
+                "username": "Iztok",
+                "comment": "Nice little restaurant, with a good food, fast service and kind staff.",
+                "date": "2022-04-06T18:48:44Z"
+            },
+            {
+                "username": "nandi 202",
+                "comment": "A little cozy restaurant on the outskirts of Ljubljana. The owner is very friendly and helpful!",
+                "date": "2023-08-09T20:36:36Z"
+            }
+        ]
+    },
+    {
+        "_id": "456cb276027c",
+        "name": "PICAROLE WOOP! KARTING",
+        "address": "Moskovska ulica 10, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0653249,
+            14.5481716
+        ],
+        "phone_number": "040 501 939",
+        "rating": 5,
+        "website": "http://www.picarole.si/",
+        "comments": [
+            {
+                "username": "miha kunsek",
+                "comment": "far from the others, najaci burger at woop arena, we'll come again!",
+                "date": "2022-09-05T10:09:16Z"
+            }
+        ]
+    },
+    {
+        "_id": "500758e713c3",
+        "name": "Bon Appetit",
+        "address": "Ameriška ulica 8, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.06691199999999,
+            14.541362
+        ],
+        "phone_number": "/",
+        "rating": 3.117958631481022,
+        "website": "/",
+        "comments": []
+    },
+    {
+        "_id": "912f35a7aabf",
+        "name": "Lunch at the ranch",
+        "address": "Industrijska cesta 2, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.066948,
+            14.5396312
+        ],
+        "phone_number": "031 557 557",
+        "rating": 4.7,
+        "website": "/",
+        "comments": [
+            {
+                "username": "Nejc Hötzl",
+                "comment": "Nice place for Balkan food in BTC.\n\nThey have good čevapi, pleskavica and other balkan dishes, but from time to time they made them to dry.\n\nService I gave them 3 stars because it depends from day to day who is serving you and what kind of day they have.\n\nSome prices are to high, especially added kajmak... almost 3€ for scoop of it... simply to much.\n\nAlltogether its OK, I would recommend it for fast or long lunch.",
+                "date": "2023-08-08T12:11:09Z"
+            },
+            {
+                "username": "Iztok",
+                "comment": "Very good restaurant, with a tipical balkan dishes at very fair price. They have open salad bar, where you can choose between salad and side dishes as a part of your order. Portions are large and staff is friendly. Despite inflation prices did not increase too mutch",
+                "date": "2023-06-14T17:19:45Z"
+            },
+            {
+                "username": "Stefan Kugler",
+                "comment": "Service speak great English and is friendly. I will come back next time. Thank you.",
+                "date": "2023-09-21T17:14:06Z"
+            },
+            {
+                "username": "eva v",
+                "comment": "Delicious food, friendly and attentive servers, large parking place close by.",
+                "date": "2023-07-03T19:45:12Z"
+            },
+            {
+                "username": "Duden Info",
+                "comment": "Amazing! Quality of the food is on top and the stuff is amazing! Atmosphere is also superb!",
+                "date": "2023-09-30T06:49:32Z"
+            }
+        ]
+    },
+    {
+        "_id": "b38e48eb427a",
+        "name": "McDonald's Ljubljana Žito",
+        "address": "Moskovska ulica 1, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.06950639999999,
+            14.5475018
+        ],
+        "phone_number": "0596 89706",
+        "rating": 4,
+        "website": "/",
+        "comments": [
+            {
+                "username": "Jan Krzic",
+                "comment": "Rating: ★★★★★ (5/5)\n\nI recently had the pleasure of visiting McDonald's, and I must say, it was a truly wonderful experience from start to finish. From the moment I walked through the doors, I was greeted with warm smiles and a friendly atmosphere.\n\nThe efficiency and speed of service at McDonald's never cease to impress me. Despite the bustling crowd, the staff handled the rush with ease, ensuring that everyone was promptly attended to. I appreciated how well-organized and streamlined the ordering process was, allowing me to get my meal quickly and effortlessly.\n\nNow, let's talk about the food. McDonald's continues to deliver on its promise of tasty, satisfying meals. The menu boasts a wide range of options to suit every craving and preference. From their iconic classics to the latest limited-time offerings, there is always something new and exciting to try. On this particular visit, I indulged in their renowned Big Mac, and it lived up to its reputation. The juicy beef patty, special sauce, and fresh ingredients came together harmoniously, creating a mouthwatering burger that left me wanting more.\n\nWhat impressed me even more was the attention to quality and consistency. Regardless of whether I'm at my local McDonald's or traveling to a different city or country, I can always count on the same great taste and high standards. This level of consistency is a testament to their commitment to providing an exceptional dining experience for their customers.\n\nFurthermore, the cleanliness and ambiance of the restaurant were commendable. The dining area was well-maintained, inviting, and comfortable, making it a pleasant place to enjoy my meal. The staff members were attentive, ensuring that tables were promptly cleaned and any requests were met with a smile.\n\nLastly, I must commend McDonald's on their dedication to social responsibility and community involvement. Their initiatives to support local communities, promote sustainability, and provide scholarships demonstrate a genuine commitment to making a positive impact.\n\nIn conclusion, my visit to McDonald's was nothing short of outstanding. From the friendly service and efficient operations to the delicious food and comfortable environment, every aspect exceeded my expectations. McDonald's remains a go-to destination for a satisfying meal, and I highly recommend it to anyone seeking a consistently excellent dining experience.\n\nThank you, McDonald's, for consistently delivering on your promise of quality, convenience, and deliciousness. You've certainly earned my loyalty as a happy and satisfied customer.",
+                "date": "2023-06-19T23:36:27Z"
+            },
+            {
+                "username": "Dmitrii Dorozhkoff",
+                "comment": "A good restaurant with car service, you can eat inside and there are tables on the street.  Only classic cash registers and a clean toilet.  Children's corner on the street and some tables in the open air.  Nearby parking, lots of places.  The largest shopping center of the capital nearby provides a constant influx of customers.  The staff speaks English, politely and quickly serves.  Quality is on top.",
+                "date": "2020-02-20T18:53:26Z"
+            },
+            {
+                "username": "Zsófia Pintér",
+                "comment": "Nobody speaks any language. Students find very funny when they don't understand the guest they are serving . We tried English and German too. They think it's funny when they are repeating things on their motherlanguage. Poor education...No soap in the toilet.",
+                "date": "2023-07-28T15:16:27Z"
+            },
+            {
+                "username": "Olga Lyoka",
+                "comment": "Quick service. Good location. Drive-through or eat there. Generous portion of ice-cream. Tasty everything. Loved it. Definitely recommend the location.",
+                "date": "2022-06-25T06:40:49Z"
+            },
+            {
+                "username": "Zala",
+                "comment": "When you open your to go bag and the first thing you see is this...",
+                "date": "2023-07-19T13:10:39Z"
+            }
+        ]
+    },
+    {
+        "_id": "0e3f14998849",
+        "name": "Subway",
+        "address": "A, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0672294,
+            14.5419707
+        ],
+        "phone_number": "(01) 810 91 91",
+        "rating": 4.1,
+        "website": "https://narocisubway.si/",
+        "comments": [
+            {
+                "username": "Eli Malnar",
+                "comment": "I got the meat option which was meh. The chicken was bland and cardbordy. On the other hand the vegetarian option with the vegetable patty was incredible. Depends on what you get. Their cookies are also amazing.",
+                "date": "2023-11-06T14:52:45Z"
+            },
+            {
+                "username": "Ronan",
+                "comment": "The sandwiches were very tasty but the fries were stale and the portion was very small. Prices a bit too high.",
+                "date": "2023-02-28T06:42:41Z"
+            },
+            {
+                "username": "max from mspace",
+                "comment": "They offer vegan options but every time I come, the staff seems unamused and cant even tell me which sauces are vegan. This time in disturbed voice:\"ugh.... the garlic one..   then mayo, and the other white sauce, i dont know.\"\n\nSo I took Ketchup on my own guess.\n\nI love Subway from games and the Dunajska one was great. But this vibe is rly offputting. I just want to eat.",
+                "date": "2023-06-29T15:02:42Z"
+            },
+            {
+                "username": "David Flisar",
+                "comment": "Subway had an excellent service. We were really quickly in line and the staff was very friendly and helpful when deciding what sandwich to order.\n\nWe also could use a student coupon which gave us a free drink and a cookie.\n\nThe sandwich was really soft and tasty and would recommend to visit Subway at least once in your life.",
+                "date": "2022-02-01T06:37:06Z"
+            },
+            {
+                "username": "ajda bizjak",
+                "comment": "Super hrana in strezba. Would recommend.",
+                "date": "2023-10-19T17:04:22Z"
+            }
+        ]
+    },
+    {
+        "_id": "0fa754f62165",
+        "name": "Radisson BLU breakfast Bar",
+        "address": "Bratislavska cesta 8, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.06635499999999,
+            14.5509876
+        ],
+        "phone_number": "/",
+        "rating": 3.8,
+        "website": "/",
+        "comments": [
+            {
+                "username": "Alexander",
+                "comment": "Uneatable. It's included but the risk not worth! Unsecured buffet. No one is holding on covid security no masks. Also coffee isn't a coffee just looks like but untrinkable",
+                "date": "2021-09-07T13:46:00Z"
+            },
+            {
+                "username": "Nasser Al-Ahmadi",
+                "comment": "Average breakfast buffet .. Nothing extraordinary !!",
+                "date": "2020-09-11T14:47:41Z"
+            },
+            {
+                "username": "Jaehyun Yeom",
+                "comment": "Breakfast at the Radisson Blu Plaza Hotel is my favorite, and it has significantly changed my usual stance on English breakfasts at hotels. Typically, I don't opt for breakfast, but this experience was a delightful exception. The quality of food here stands out in comparison to many other hotels I've stayed at. During my week-long stay, I had the opportunity to try almost everything they offered. The salads were fresh, with a variety of sauces, olive oil and balsamic vinegar. Yogurts and toppings were available. The hot foods, including scrambled eggs, bacon, sausages, and roasted vegetables, were delicious. They also provided an impressive selection of cheeses, salamis, and the like. The dumplings were average, but everything else was nearly perfect. I would consider staying at this hotel again, if only for the breakfast.\n\nService was satisfying, too.",
+                "date": "2023-11-17T12:41:11Z"
+            },
+            {
+                "username": "Milan Petek",
+                "comment": "Excellent breakfast",
+                "date": "2021-10-10T19:30:40Z"
+            }
+        ]
+    },
+    {
+        "_id": "7bf8aa9d1c9a",
+        "name": "GOSTILNA POD KOSTANJI",
+        "address": "Tomačevska cesta 9, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0701854,
+            14.5287923
+        ],
+        "phone_number": "031 303 108",
+        "rating": 4.6,
+        "website": "/",
+        "comments": [
+            {
+                "username": "Aleksandra Pesic",
+                "comment": "Perfect. Good food, even better service. All recommendations. 😍",
+                "date": "2023-07-11T13:57:37Z"
+            },
+            {
+                "username": "mungo mungo",
+                "comment": "One of the gratest experiences in Ljubljana...\nRestaurant with history, a reminder of some better cosy times...\nFar from most of the unpersonalized and fancy slow food, expensive wannabe restaurants without soul...\n\nGood prices, hilarious and profesional owner, absolutely gorgeous food...\nWill be back soon...",
+                "date": "2022-09-19T14:43:45Z"
+            },
+            {
+                "username": "Vukadin Pesic",
+                "comment": "Best place to eat in town.",
+                "date": "2023-07-11T13:53:38Z"
+            },
+            {
+                "username": "Franck Meriaux",
+                "comment": "Owner is very friendly,service very quick and food very good.\nPerfect",
+                "date": "2023-02-06T01:21:41Z"
+            },
+            {
+                "username": "Dream Info Hub",
+                "comment": "Good restaurant. A bit hard to park but it's worth it.We had a party there. It was good.",
+                "date": "2020-02-21T04:36:10Z"
+            }
+        ]
+    },
+    {
+        "_id": "43d258829093",
+        "name": "Barbarella BTC Bistro",
+        "address": "Ameriška ulica 13, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0654289,
+            14.5439387
+        ],
+        "phone_number": "(01) 330 72 27",
+        "rating": 4.6,
+        "website": "http://www.barbarella.si/",
+        "comments": [
+            {
+                "username": "Neža Pečan",
+                "comment": "Good plant based food, modern and tasteful ambient, kind service. I really love the burger and their sweet potato fries are the best ever. I also really like their daily classic lunches like meatballs, stuffed bell peppers, mashed potatoes...\nWhat I dislike are the prices because they are getting absurdly expensive. Another thing I am not a fan of are the dirty toilets. Inappropriate for a place with such good food and high prices.\nAnother issue is that they offer cow's milk. They're supposed to be a vegan place, so be careful when you order a cappuccino, it could come with animal secretions. The cow's milk coffee is actually cheaper than the plant version, they serve it as a deafult. Apparently money > values.",
+                "date": "2023-06-05T11:59:05Z"
+            },
+            {
+                "username": "Nina Lah",
+                "comment": "Great vegan bistro! I especially like the changing daily lunch, the bianca pizza and the bounty coconut chocolate cake - YUM! The lunch price is ok but the cake price is quite expensive comped to the size of the piece.",
+                "date": "2023-08-14T20:04:26Z"
+            },
+            {
+                "username": "Xenophy",
+                "comment": "Definitely the best vegan Pizza ever!!!\nThe only thing which wasnt very good was the spinach soup but I guess its of personal preference.\n\nAll the other food (especially the cakes) are of amazing quality and the staff is very nice. Definitely try it out if you would like to have a special journey in the world of vegan good and delicious food!",
+                "date": "2022-09-27T06:28:02Z"
+            },
+            {
+                "username": "Light Above School",
+                "comment": "wow what an experience. Perfect service and great, healthy food. This restaurant makes the world a better place. Thanks to the owner and all the workers there. Can recommend going there 100%",
+                "date": "2023-04-11T11:48:04Z"
+            },
+            {
+                "username": "Anna Golcova",
+                "comment": "Barbarella is a vegan bistro. The space is comfortable, cozy, well zoned, and well decorated. The staff is very pleasant and helpful, the  food was served very quickly.\nWhat I can say about the food. I'm not a vegan, but I enjoy vegan food. Barbarella has a really good selection of food and drinks - pizzas,  salad, bowls, smoothies, deserts. All is highly esthetic, portions are big, but I was not impressed much by the taste. The deserts look yummy, and I would come again to taste some of them. The prices for food are reasonable considering that it's vegan, the deserts are too expensive IMHO.",
+                "date": "2023-07-26T15:55:19Z"
+            }
+        ]
+    },
+    {
+        "_id": "ad813cea9a2a",
+        "name": "Street Food BTC",
+        "address": "Francoska ulica, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0635678,
+            14.5449734
+        ],
+        "phone_number": "/",
+        "rating": 4.5,
+        "website": "/",
+        "comments": [
+            {
+                "username": "Rajat Sharma",
+                "comment": "Many shops close early around 3:00 or 4:00pm. Food is good but is expensive, since its a takeaway type of a arrangement, although there are common seats if you would like to sit down and eat, but self service only. Restaurant prices for fast food type service. Food quality is good.",
+                "date": "2023-04-26T09:14:40Z"
+            },
+            {
+                "username": "Vera Andjelkovic",
+                "comment": "Pretty good open air, self service food court. It includes everything from burgers to thai food, and includes a decent vegan, gluten free and LCHF menu at certain food stands.",
+                "date": "2019-10-30T09:24:32Z"
+            },
+            {
+                "username": "Ziga Berce",
+                "comment": "Great selection nice place fast service.",
+                "date": "2016-08-25T11:42:49Z"
+            },
+            {
+                "username": "Gregor Cerinšek",
+                "comment": "Excellent concept of having small standa of certain known goos restaurant in Slovenia in one place, with common eating area. So it is good choice, if you want to go eat with bigger group and everyone wants something else.\nOnly downside - in my opinion, quite expensive considering this is for snacking.",
+                "date": "2018-11-22T21:33:53Z"
+            },
+            {
+                "username": "Rok Bergman",
+                "comment": "Used to be one of my favorite places to eat after work. Especially Chutys with great Pad Thai. But since reopening (due to quarantine) the portions are really much smaller - too small... Other stands seem to keep with good standard. But DONT GO TO CHUTYS. NOT WORTH YOUR MONEY.",
+                "date": "2020-05-11T13:47:05Z"
+            }
+        ]
+    },
+    {
+        "_id": "a17467d0ba49",
+        "name": "Argentino",
+        "address": "Ulica gledališča BTC 2, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0618186,
+            14.5456265
+        ],
+        "phone_number": "031 600 900",
+        "rating": 4.4,
+        "website": "http://argentino.si/",
+        "comments": [
+            {
+                "username": "Andrey Esaulov",
+                "comment": "A Taste of Argentina's Culinary Excellence in Ljubljana's Shopping District\n\nNestled in the heart of Ljubljana's vibrant shopping district, I had the pleasure of discovering a true culinary gem that transported me to the flavors of Argentina. This restaurant, which specializes in Argentina beef, not only delivered on its promise but also surprised me with exceptional wines and mouthwatering pizza.\n\nFrom the moment I stepped into the restaurant, the ambiance set the stage for an extraordinary dining experience. The warm and inviting décor, combined with the aroma of sizzling meats, instantly piqued my appetite. As a lover of steak, I was eager to indulge in the renowned Argentina beef that the restaurant is famous for.\n\nThe beef dishes that graced my table were nothing short of spectacular. Cooked to perfection, each bite was a symphony of tenderness and flavor, a testament to the quality of the ingredients and the mastery of the chefs. The rich, robust flavors of Argentina beef shone through, leaving an unforgettable impression on my taste buds.\n\nWhile the restaurant's specialty was undoubtedly the beef, the surprises didn't end there. The exceptional selection of wines further elevated the dining experience. The staff's knowledge and passion for wine pairings were evident as they guided me through the options, ensuring that each sip perfectly complemented the dishes.\n\nA delightful surprise awaited me in the form of the restaurant's pizza offerings. The pizza, often overshadowed in a beef-focused establishment, was a revelation. The thin, crispy crust provided the perfect canvas for a medley of fresh toppings, resulting in a pizza that rivaled the best pizzerias in town.\n\nThe attentive service was the icing on the cake, with the staff striking the right balance between professionalism and friendliness. Their dedication to providing a memorable experience was evident in every interaction, enhancing the overall enjoyment of the meal.\n\nIn conclusion, the Argentina restaurant in Ljubljana's shopping district is a culinary treasure trove that seamlessly blends the flavors of Argentina with a local touch. From the exceptional beef dishes that are a carnivore's dream to the surprising excellence of the pizza and the impressive wine selection, this restaurant delivers a feast for the senses. Whether you're a meat enthusiast or simply seeking a dining experience that stands out, this establishment is a must-visit.",
+                "date": "2023-08-28T18:30:11Z"
+            },
+            {
+                "username": "Natalie M",
+                "comment": "Even though it's in a bustling shopping area, they've created a little oasis of tranquility, that takes you to laid back Spanish charm. The service and food are both excellent, meat really just melts in your mouth. It's a bit pricey, but occasionally well worth it.",
+                "date": "2023-06-10T04:56:41Z"
+            },
+            {
+                "username": "Linda Saračević",
+                "comment": "The meat in the burger and sweet potato were delicious, but the burger was just too small for the price. The service was excellent and professional, also the ambience inside and outside is very pleasant and nicely decorated. I recommend!",
+                "date": "2023-02-21T11:08:46Z"
+            },
+            {
+                "username": "Antonio K",
+                "comment": "Excellent and tasty pizza. Friendly and helpful staff, pleasant atmosphere in the restaurant",
+                "date": "2023-07-18T08:09:42Z"
+            },
+            {
+                "username": "Manca Alič",
+                "comment": "High quality meat! Very tasty. Also gin tonic was nice. However for highly rated restaurant they should work on professionalism of their staff. We ordered a plate of 4 steaks and would actually appreciate to be told which steak is which. Also they could be a bit nicer and not try to make you feel like they are doing you a favour when they serve you.",
+                "date": "2022-02-21T19:24:51Z"
+            }
+        ]
+    },
+    {
+        "_id": "d3920d71fa90",
+        "name": "Pizzeria Napoli Bojan Tepić s.p.",
+        "address": "Šmartinska c. 152, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0679624,
+            14.5420141
+        ],
+        "phone_number": "/",
+        "rating": 3,
+        "website": "/",
+        "comments": [
+            {
+                "username": "Joško Herceg",
+                "comment": "We did not find this pizzeria on this address",
+                "date": "2023-11-01T14:50:10Z"
+            }
+        ]
+    },
+    {
+        "_id": "90effab7b542",
+        "name": "Hood Burger BTC",
+        "address": "Tržnica BTC, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0636295,
+            14.5449023
+        ],
+        "phone_number": "(01) 330 24 10",
+        "rating": 4.4,
+        "website": "http://www.hoodburger.si/",
+        "comments": [
+            {
+                "username": "Jaka Pregelj",
+                "comment": "The burger was delicious. It is a bit pricey but worth it. The food court area is really nice and organised. There are many other food options to chose from. Best burger in Ljubljana.",
+                "date": "2023-08-06T06:12:47Z"
+            },
+            {
+                "username": "Jan Istenič",
+                "comment": "Great burgers. Fries are mediocre. But the Bevog beer goes superbly with the burger. It is a killer combination. The place is a little “village” of all sorts of food styles but I’m a guy of simple pleasures, so in combination with simple outdoor benches and tables makes this an enjoyable experience after or before some shopping.",
+                "date": "2023-05-09T19:37:50Z"
+            },
+            {
+                "username": "blaz harej",
+                "comment": "When a local burger place becomes just another copy of McDonald's. With the difference that the big corporation has staff better trained in communication with customers.",
+                "date": "2023-07-22T11:11:57Z"
+            },
+            {
+                "username": "Marko Alpner",
+                "comment": "This was one of the best burgers in Ljubljana. Since they expanded, the consistency and quality are just not there anymore. Sadly, they also turned up the prices a notch. Or three. It's still an OK place to eat a burger, but there are lots of better ones.",
+                "date": "2021-08-27T13:37:35Z"
+            },
+            {
+                "username": "Ajdin Čišić",
+                "comment": "So, what is here to say? 🤔 Great quality of food, no matter what you take, burger 🍔, steak 🥩 sandwich or fries 🍟, you will get great delicious 🤤 food 👏🏻\nI highly recommend LeBrie 🍔 with extra bacon 🥓 jalapeños 🌶️ or the chili-cheese steak sandwich 🤤\n\nThe only bad thing I can say is that they don't have here the chicken nuggets, chicken burger and milk shake like in HoodBurger Citycenter place.\n\nBut it's still great place for eating one of the BEST 🍔🍟 in Ljubljana 👏🏻",
+                "date": "2020-08-29T18:34:54Z"
+            }
+        ]
+    },
+    {
+        "_id": "2a6b80199fd5",
+        "name": "Woop park Ljubljana",
+        "address": "Woop park, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0671854,
+            14.5533597
+        ],
+        "phone_number": "/",
+        "rating": 4.7,
+        "website": "/",
+        "comments": [
+            {
+                "username": "Luka Mitrovic",
+                "comment": "Amazing sport park, full of adrenaline, parking was for free for the time we spent. We staff was very helpful for making this experience unforgettable. The park is very roomy, with all different kind of trampolines. Kids enjoy it.",
+                "date": "2022-07-09T12:57:36Z"
+            },
+            {
+                "username": "Ožbe Pečar",
+                "comment": "Great place to take your kids to.",
+                "date": "2022-03-08T13:11:04Z"
+            },
+            {
+                "username": "Matjaž Balon",
+                "comment": "Great for kids",
+                "date": "2021-09-06T18:52:12Z"
+            },
+            {
+                "username": "Tia Tia",
+                "comment": "Very bad trampolines\nMentor Žiga is the friendliest",
+                "date": "2023-01-13T18:19:14Z"
+            },
+            {
+                "username": "Gašper Pavlin",
+                "comment": "Great park, cute experience.",
+                "date": "2021-09-19T16:41:13Z"
+            }
+        ]
+    },
+    {
+        "_id": "c88ef7fa4047",
+        "name": "Cojzla",
+        "address": "Italijanska ulica 7, 1000 Ljubljana, Slovenia",
+        "coordinates": [
+            46.0641201,
+            14.5444578
+        ],
+        "phone_number": "031 773 434",
+        "rating": 4.7,
+        "website": "http://cojzla.si/",
+        "comments": [
+            {
+                "username": "Tajda Mihelic",
+                "comment": "That was a surprise discovery for me, found it on the FMGF app and I loved the food! They also have vegan 🥑 options, but the burgers and desserts 🧁 are amazing! Had the apple strudl after a long time and it was amazing! Highly recommend to gluten intolerant people and vegans. Will definitely be back when in Ljubljana! Kudos to this place!",
+                "date": "2023-11-11T08:18:30Z"
+            },
+            {
+                "username": "Anja Cerovšek",
+                "comment": "One of really rare gluten free and also milk free option for lunch in slovenia! Beside all the dishes are delicious ! Strongly recommend if you're gluten intolerant or also if you're not , because its tasteful and healthy 😊 im super happy they exist!",
+                "date": "2022-12-17T14:29:05Z"
+            },
+            {
+                "username": "Magdalena",
+                "comment": "The food was delicious, but the place has to little places to sit and enjoy your meal. The tables are on the way to the supermarket entrance so it was not quite enjoyable sitting there. They offered us a place outside but it was too hot. So 5 stars for the food, you have a great menu that is also safe for celiacs, but -1 for the accommodation.",
+                "date": "2022-06-19T16:26:29Z"
+            },
+            {
+                "username": "Kaja Štritof",
+                "comment": "it was delicious! plus both girls working were super nice! 10/10",
+                "date": "2023-04-14T16:04:42Z"
+            },
+            {
+                "username": "Maša Rački",
+                "comment": "Very good vegan burger! 😋👌 Please, more vegan dishes and less meat options, that would be much much better (for the animals and vegans). 😁😊",
+                "date": "2022-02-06T17:19:57Z"
+            }
+        ]
+    }
+]

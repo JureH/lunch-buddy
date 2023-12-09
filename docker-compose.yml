@@ -1,0 +1,25 @@
+version: "3.5"
+services:
+  web-dev-node-api:
+    container_name: lunch-buddy-app
+    ports:
+      - "3000:3000"
+    image: lunch-buddy-server
+    build: ./
+    environment:
+      - NODE_ENV=test
+      - MONGO_ATLAS_URI=mongodb+srv://user1:BuFMBUIpnYKtMuPE@lunchbuddydb.wdufxnu.mongodb.net/LunchBuddy
+      - JWT_SECRET=mySecretPassword
+    networks:
+      - web-dev-network
+  web-dev-mongo-db:
+    image: mongo
+    container_name: lunch-buddy-mongo-db
+    ports:
+      - "27017-27019:27017-27019"
+    networks:
+      - web-dev-network
+networks:
+  web-dev-network:
+    name: lunch-buddy-network
+    driver: bridge

@@ -1,0 +1,20 @@
+<div>
+  <label for="lunchTimeFilter">Filter by Lunch Time:</label>
+  <select id="lunchTimeFilter" [(ngModel)]="lunchTimeFilter" (change)="applyFilter()">
+    <option value="" selected>All</option>
+    <option value="11:00">11:00</option>
+    <option value="12:00">12:00</option>
+    <option value="13:00">13:00</option>
+  </select>
+
+  <div class="card-deck">
+    <div class="card restaurant-card" *ngFor="let choice of filteredChoices | sortByCount:restaurantCounts | slice:0:(showAll ? filteredChoices.length : 5)">
+      <div class="card-body">
+        <h5 class="card-title">{{ choice.restaurant }}</h5>
+        <p class="card-text">Count: {{ restaurantCounts[choice.restaurant] }}</p>
+      </div>
+    </div>
+  </div>
+
+  <button (click)="toggleShowAll()">Show All</button>
+</div>

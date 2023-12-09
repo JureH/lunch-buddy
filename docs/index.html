@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LunchBuddy</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+</head>
+<body>
+<header>
+    <img src="images/logo.png" alt="Logo" class="logo">
+    <h1>LunchBuddy</h1>
+    <nav>
+        <a href="index.html">Main Page</a>
+        <a href="list_restaurants.html">List of Restaurants</a>
+        <a href="login.html">Login</a>
+        <a href="registration.html">Registration</a>
+    </nav>
+</header>
+
+<div class="container">
+    <p>Where would you like to eat today.</p>
+    <label for="timeFilter">Time:</label>
+    <select id="timeFilter" onchange="filterRestaurants(this.value)">
+        <option value="all">Show All</option>
+        <option value="10:00">10:00</option>
+        <option value="11:00">11:00</option>
+        <option value="12:00">12:00</option>
+    </select>
+
+    <div class="restaurant-list">
+        <div class="restaurant">
+            <h2>Restaurant 1</h2>
+            <p class="votes">Number of Votes: 10</p>
+            <button>Choose</button>
+        </div>
+        <div class="restaurant">
+            <h2>Restaurant 2</h2>
+            <p class="votes">Number of Votes: 15</p>
+            <button>Choose</button>
+        </div>
+        <div class="restaurant">
+            <h2>Restaurant 3</h2>
+            <p class="votes">Number of Votes: 8</p>
+            <button>Choose</button>
+        </div>
+    </div>
+
+    <a href="list_restaurants.html" class="all-restaurants-button">All Restaurants</a>
+
+    <div class="map-container">
+        <img src="images/map.jpg" alt="Map" class="map">
+    </div>
+</div>
+
+<div class="chat-container">
+    <div class="chat-message">
+        User 1: Hi, what's the most popular restaurant here?
+    </div>
+    <div class="chat-message">
+        User 2: The most popular restaurant is Restaurant 2 with 15 votes.
+    </div>
+    <div class="chat-message">
+        User 3: Great! Thanks for the info.
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List of Restaurants - LunchBuddy</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+</head>
+<body>
+<header>
+    <img src="images/logo.png" alt="Logo" class="logo">
+    <h1>LunchBuddy</h1>
+    <nav>
+        <a href="index.html">Main Page</a>
+        <a href="list_restaurants.html">List of Restaurants</a>
+        <a href="login.html">Login</a>
+        <a href="registration.html">Registration</a>
+    </nav>
+</header>
+
+<div class="container">
+    <h2>List of Restaurants</h2>
+
+    <input type="text" id="searchBar" placeholder="Search for a restaurant..." oninput="filterRestaurants()">
+
+        <div class="restaurant">
+            <h3>Restaurant 1</h3>
+            <p>Address: Nova cesta 15</p>
+            <p>Phone: (01) 456-7890</p>
+            <p>Website: www.restaurant1.com</p>
+            <button class="choose-button">Choose</button>
+        </div>
+
+        <div class="restaurant">
+            <h3>Restaurant 2</h3>
+            <p>Address: Druga ulica 6</p>
+            <p>Phone: (02) 789-0123</p>
+            <p>Website: www.restaurant2.com</p>
+            <button class="choose-button">Choose</button>
+        </div>
+
+
+    <a href="add_restaurant.html" class="add-restaurant-button">Add Restaurant</a>
+</div>
+
+</body>
+</html>

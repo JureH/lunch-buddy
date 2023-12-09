@@ -1,0 +1,6 @@
+<input type="text" [(ngModel)]="searchInput" (input)="onInputChange()">
+<ul>
+  <li *ngFor="let prediction of predictions" (click)="onPredictionSelect(prediction.place_id)">
+    {{ prediction.description }}
+  </li>
+</ul>

@@ -1,0 +1,128 @@
+<div class="row" *ngIf="restaurant">
+    <div class="col-12 col-md-6">
+      <div class="card mt-4">
+        <div class="card-header bg-light">
+          <h4 class="mt-1 mb-1">
+            <i class="fa-regular fa-file-lines pe-2"></i>Description
+          </h4>
+        </div>
+        <div class="card-body">
+          <div class="row">
+            <div class="col-12 col-md-6">
+              <h6>Rating</h6>
+              <p><app-stars [rating]="restaurant.rating || 0"></app-stars></p>
+            </div>
+            <div class="col-12">
+              <h6>Name</h6>
+              <p>{{ restaurant.name }}</p>
+            </div>
+            <div class="col-12">
+              <h6>Address</h6>
+              <p>{{ restaurant.address }}</p>
+            </div>
+            <div class="col-12">
+              <h6>Phone Number</h6>
+              <p>{{ restaurant.phone_number }}</p>
+            </div>
+            <div class="col-12">
+              <h6>User's comments</h6>
+              <div [ngSwitch]="isLoggedIn()">
+                <a
+                  *ngSwitchCase="true"
+                  class="btn btn-primary btn-sm"
+                  (click)="openModal(commentForm)">
+                <i class="fa-regular fa-comment-dots pe-2"></i>
+                <span>Add comment</span>
+                </a>
+                <a
+                  *ngSwitchDefault
+                  routerLink="/login"
+                  class="btn btn-primary btn-sm"
+                  ><i class="fa-solid fa-right-to-bracket pe-2"></i>Login to post
+                  comment
+                </a>
+              </div>
+            </div>
+            <div *ngIf="!restaurant.comments || restaurant.comments.length == 0">
+              No comments yet, please add yours.
+            </div>
+            <div class="mt-2" [ngClass]="!last ? 'mb-4' : ''" *ngFor="let comment of restaurant.comments | mostRecentFirst; last as last">
+              <div class="d-flex justify-content-between align-items-baseline bg-light rounded-3 p-1">
+                <div class="ms-1">
+                  <i class="fa-regular fa-user ps-4 pe-2"></i>{{ comment.username }}
+                  <i *ngIf="canDeleteComment(comment)"
+                    class="fa-solid fa-trash-can text-primary show-pointer ms-4"
+                    (click)="deleteComment(comment._id)"
+                  ></i>
+                </div>
+                <div>
+                  <small>{{ comment.date }}<i class="fa-regular fa-calendar ps-2 pe-1"></i></small>
+                </div>
+              </div>
+              <div>
+                <div class="d-flex flex-row align-items-baseline">
+                  <div class="p-2"><i class="far fa-comment-dots"></i></div>
+                  <div class="p-2">{{ comment.comment }}</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-6">
+      <div class="card mt-4">
+        <div class="card-header bg-light">
+          <h4 class="mt-1 mb-1"><i class="fas fa-map-signs pe-2"></i>Location</h4>
+        </div>
+        <div class="card-body">
+          <div class="mb-1">
+            <small class="text-muted">{{ restaurant.address }}</small>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <ng-template #commentForm>
+    <div class="modal-header">
+      <h4 class="modal-title pull-left">
+        <i class="fa-regular fa-comment-dots pe-2"></i>Add comment
+      </h4>
+      <button
+        type="button"
+        class="btn-close close pull-right"
+        aria-label="Close"
+        (click)="closeModal()"
+      >
+        <span aria-hidden="true" class="visually-hidden">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <div class="alert alert-dark p-2" [hidden]="!formDataError">
+        <i class="fa-solid fa-triangle-exclamation pe-2"></i>{{ formDataError }}
+      </div>
+      <div class="form-group">
+        <label for="comment" class="form-label mt-2">Comment</label>
+        <textarea
+          id="comment"
+          [(ngModel)]="newComment.comment"
+          rows="3"
+          class="form-control form-control-sm"
+          placeholder="Enter comment"
+        ></textarea>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button
+        type="button"
+        class="btn btn-sm btn-secondary"
+        (click)="closeModal()"
+      >
+        <i class="fa-regular fa-circle-xmark me-1"></i>Cancel
+      </button>
+      <button type="button" class="btn btn-sm btn-primary" (click)="addNewComment()">
+        <i class="fa-regular fa-circle-check me-2"></i>Save
+      </button>
+    </div>
+  </ng-template>

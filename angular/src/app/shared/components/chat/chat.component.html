@@ -1,0 +1,17 @@
+<div *ngIf="chats && chats.length > 0" class="chat-container">
+  <h2>Chat</h2>
+  <div class="chat-list">
+    <div *ngFor="let chat of chats.slice(-10).reverse()" class="chat-message">
+      <div class="user-info">
+        <strong>User:</strong> {{ chat.username }}
+      </div>
+      <div class="message-info">
+        <span class="date"><strong>Date:</strong> {{ chat.date | date }}</span>
+        <p><strong>Comment:</strong> {{ chat.comment }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div *ngIf="!(chats && chats.length > 0)">
+  <p>No chats available.</p>
+</div>

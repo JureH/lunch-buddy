@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Page</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+</head>
+<body>
+<header>
+    <img src="images/logo.png" alt="Logo" class="logo">
+    <h1>Admin Panel</h1>
+    <nav>
+        <a href="index.html">Main Page</a>
+        <a href="list_restaurants.html">List of Restaurants</a>
+        <a href="login.html">Login</a>
+        <a href="registration.html">Registration</a>
+    </nav>
+</header>
+
+<div class="container">
+    <h2>Users</h2>
+
+    <!-- Table for displaying users -->
+    <table>
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>John Doe</td>
+            <td>johndoe@example.com</td>
+            <td>
+                <button>Edit</button>
+                <button>Delete</button>
+            </td>
+        </tr>
+        <!-- Add more user rows here -->
+        </tbody>
+    </table>
+
+    <h2>Restaurants</h2>
+
+    <!-- Table for displaying restaurants -->
+    <table>
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Actions</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Restaurant 1</td>
+            <td>123 Main St</td>
+            <td>
+                <button>Edit</button>
+                <button>Delete</button>
+            </td>
+        </tr>
+        <!-- Add more restaurant rows here -->
+        </tbody>
+    </table>
+
+    <h2>Comments</h2>
+
+    <!-- Table for displaying comments -->
+    <table>
+        <thead>
+        <tr>
+            <th>User</th>
+            <th>Restaurant</th>
+            <th>Comment</th>
+            <th>Actions</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>User1</td>
+            <td>Restaurant1</td>
+            <td>This is a comment.</td>
+            <td>
+                <button>Edit</button>
+                <button>Delete</button>
+            </td>
+        </tr>
+        <!-- Add more comment rows here -->
+        </tbody>
+    </table>
+</div>
+</body>
+</html>
