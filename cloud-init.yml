@@ -12,8 +12,8 @@ packages:
 
 # Clone the MEAN app repository from GitHub
 runcmd:
-  - git clone https://github.com/your-username/your-mean-app.git
-  - cd your-mean-app
+  - git clone https://github.com/JureH/lunch-buddy.git
+  - cd lunch-buddy
   - npm install
 
 # Start MongoDB service
