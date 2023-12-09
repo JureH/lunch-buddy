@@ -12,7 +12,7 @@ runcmd:
   - apt-get update
   - apt-get install -y mongodb-org
   - snap install node --classic
-
+  - cd /home/ubuntu
   - git clone https://github.com/JureH/lunch-buddy.git
   - cd lunch-buddy
   - npm install
