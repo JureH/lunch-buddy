@@ -6,6 +6,5 @@ docker-compose*
 package-lock.json
 node_modules
 *.md
-.env
 angular/**
 !angular/build/**
