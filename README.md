@@ -64,6 +64,7 @@ LunchBuddy je spletna aplikacija, ki omogoča dogovarjanje med sodelavci v podje
 ![Screenshot 10](docs/screenshots/10_cloud_init.png)
 
 - Zaženemo virtualko
+
 ![Screenshot 11](docs/screenshots/11_launch.png)
 
 - Po zagunu vidimo lastnosti virtualke
@@ -74,15 +75,15 @@ LunchBuddy je spletna aplikacija, ki omogoča dogovarjanje med sodelavci v podje
 
 ![Screenshot 13](docs/screenshots/13_connect.png)
 
-- Pogledamo cloud init log in vidimo da se je izvedel
+- Pogledamo cloud init log (/var/log/cloud-init-output.log) in vidimo da se je izvedel
 
 ![Screenshot 14](docs/screenshots/14_cloud_init_success.png)
 
-- Pogledamo log express serverja in vidimo, da se je postavil
+- Pogledamo log express serverja (home/ubuntu/lunch-buddy/express-server.log) in vidimo, da se je postavil
 
 ![Screenshot 15](docs/screenshots/15_express_api_server_success.png)
 
-- Pogledamo log angular aplikacije in vidimo da se je uspešno zagnala
+- Pogledamo log angular aplikacije (home/ubuntu/lunch-buddy/angular/angular.log) in vidimo da se je uspešno zagnala
 
 ![Screenshot 16](docs/screenshots/16_angular_success.png)
 
