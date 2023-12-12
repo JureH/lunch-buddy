@@ -37,11 +37,69 @@ LunchBuddy je spletna aplikacija, ki omogoča dogovarjanje med sodelavci v podje
 
 - Generiramo par ključev za ssh dostop
 
-![Screenshot 4](docs/screenshots/4_create key pair.png)
+![Screenshot 3](docs/screenshots/4_create_key_pair.png)
 
+- Izberemo ključ
 
-- Nastavimo storage na 8 GiB gp2
+![Screenshot 5](docs/screenshots/5_select_key_pair.png)
+
+- Izberemo security group
+
+![Screenshot 6](docs/screenshots/6_select_security.png)
+
+- Inbound nastavitve
+
+![Screenshot 7](docs/screenshots/7_inbound.png)
+
+- Outbound nastavitve
+
+![Screenshot 8](docs/screenshots/8_outbound.png)
+
+- Izberemo storage
+
+![Screenshot 9](docs/screenshots/9_storage.png)
+
 - V user data vstavimo vsebino datoteke cloud-init.yml, ki se nahaja v rootu repositorija
+
+![Screenshot 10](docs/screenshots/10_cloud_init.png)
+
+- Zaženemo virtualko
+![Screenshot 11](docs/screenshots/11_launch.png)
+
+- Po zagunu vidimo lastnosti virtualke
+
+![Screenshot 12](docs/screenshots/12_povzetek.png)
+
+- Prek AWS se povežemo na instanco
+
+![Screenshot 13](docs/screenshots/13_connect.png)
+
+- Pogledamo cloud init log in vidimo da se je izvedel
+
+![Screenshot 14](docs/screenshots/14_cloud_init_success.png)
+
+- Pogledamo log express serverja in vidimo, da se je postavil
+
+![Screenshot 15](docs/screenshots/15_express_api_server_success.png)
+
+- Pogledamo log angular aplikacije in vidimo da se je uspešno zagnala
+
+![Screenshot 16](docs/screenshots/16_angular_success.png)
+
+- Ustvarimo ssh tunel na ip virtualke za port 4200 in 3000
+
+![Screenshot 17](docs/screenshots/17_ssh_tunel_4200.png)
+
+![Screenshot 18](docs/screenshots/18_ssh_tunel_3000.png)
+
+- Do API serverja dostopamo na localhost:3000
+
+![Screenshot 19](docs/screenshots/19_api.png)
+
+- Do angular aplikacije dostopamo na localhost:4200
+
+![Screenshot 20](docs/screenshots/20_angular_app.png)
+
 
 ## Kaj naredi cloud-init?
 
