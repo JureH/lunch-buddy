@@ -21,6 +21,20 @@ LunchBuddy je spletna aplikacija, ki omogoča dogovarjanje med sodelavci v podje
 - Možnost izbire lokacije za uporabnike
 - Dodajanje sporočil v klepet
 
+
+## Kaj naredi cloud-init?
+
+- doda repositorij za mongoDB in ga namesti
+- namesti nodejs
+- prenese aplikacijo iz gita
+- z NPM namesti vse odvisne knjižnjice, ki jih potrebujemo za API strežnik
+- zažene mongo bazo in vstavi začetne podatke iz json datotek
+- izbriše datoteke z začetnimi podatki
+- zažene API strežnik v ozadju dostopen na localhost:3000
+- namesti vse odvisne knjižnjice za Angular aplikacijo
+- zažene Angular aplikacijo dostopno na localhost:4200
+
+
 ## Virtualizacija aplikacije s cloud init na AWS
 
 - Zaženemo novo instanco EC2 na AWS Cloud in jo poimenujemo
@@ -101,18 +115,6 @@ LunchBuddy je spletna aplikacija, ki omogoča dogovarjanje med sodelavci v podje
 
 ![Screenshot 20](docs/screenshots/20_angular_app.png)
 
-
-## Kaj naredi cloud-init?
-
-- doda repositorij za mongoDB in ga namesti
-- namesti nodejs
-- prenese aplikacijo iz gita
-- z NPM namesti vse odvisne knjižnjice, ki jih potrebujemo za API strežnik
-- zažene mongo bazo in vstavi začetne podatke iz json datotek
-- izbriše datoteke z začetnimi podatki
-- zažene API strežnik v ozadju dostopen na localhost:3000
-- namesti vse odvisne knjižnjice za Angular aplikacijo
-- zažene Angular aplikacijo dostopno na localhost:4200
 
 ## Ustvarjeni uporabniki
 
