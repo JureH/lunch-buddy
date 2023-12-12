@@ -23,11 +23,23 @@ LunchBuddy je spletna aplikacija, ki omogoča dogovarjanje med sodelavci v podje
 
 ## Virtualizacija aplikacije s cloud init na AWS
 
-- Zaženemo novo instanco EC2 na AWS Cloud
-- Poimenujemo jo lunch-buddy-instance
+- Zaženemo novo instanco EC2 na AWS Cloud in jo poimenujemo
+
+![Screenshot 1](docs/screenshots/1_name.png)
+
 - Izberemo Ubuntu Server 22.04 LTS
-- Izberemo tip instance t3.medium (2 CPU, 4GiB Memory)
-- Generiramo par ključev za dostop
+
+![Screenshot 2](docs/screenshots/2_os.png)
+
+- Izberemo tip instance t3.small (2 CPU, 2GiB Memory)
+
+![Screenshot 3](docs/screenshots/3_type.png)
+
+- Generiramo par ključev za ssh dostop
+
+![Screenshot 4](docs/screenshots/4_create key pair.png)
+
+
 - Nastavimo storage na 8 GiB gp2
 - V user data vstavimo vsebino datoteke cloud-init.yml, ki se nahaja v rootu repositorija
 

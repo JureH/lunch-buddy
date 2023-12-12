@@ -19,11 +19,12 @@ runcmd:
   - npm install
   # Start MongoDB service and copy starter data
   - service mongod start
+  - cd data
   - mongoimport --db LunchBuddy --collection Chats --file chats.json --jsonArray
   - mongoimport --db LunchBuddy --collection Users --file users.json --jsonArray
   - mongoimport --db LunchBuddy --collection Restaurants --file restaurants.json --jsonArray
   - mongoimport --db LunchBuddy --collection Choices --file choices.json --jsonArray
-  - rm -rf data
+  - cd ..
   # Build and start the Node.js server in the background
   - npm start > express_server.log 2>&1 &
   # Navigate to the Angular app directory
@@ -32,6 +33,6 @@ runcmd:
   - npm install -g @angular/cli
   - npm install
   # Build and start the Angular app in the background
-  - ng serve > angular.log 2>&1 &
+  - ng serve --host 0.0.0.0 > angular.log 2>&1 &
 
   - echo "Done!"
