@@ -1,3047 +1,3047 @@
 [
-    {
-        "_id": "b4b303e4cf03",
-        "username": "admin",
-        "date": "2023-12-03",
-        "restaurant": "Cojzla",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "575c7974a89a",
-        "username": "admin",
-        "date": "2023-12-04",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "1c8ac0dc6978",
-        "username": "admin",
-        "date": "2023-12-05",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "10074f881142",
-        "username": "admin",
-        "date": "2023-12-06",
-        "restaurant": "Restavracija Antaro",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "74260ac41c5f",
-        "username": "admin",
-        "date": "2023-12-07",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "3303fe6d99d0",
-        "username": "admin",
-        "date": "2023-12-08",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "1bd11ac264d7",
-        "username": "admin",
-        "date": "2023-12-09",
-        "restaurant": "Luna caffe",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "549e8995b4cd",
-        "username": "admin",
-        "date": "2023-12-10",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "4db55047c413",
-        "username": "admin",
-        "date": "2023-12-11",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "8cfa41baa956",
-        "username": "admin",
-        "date": "2023-12-12",
-        "restaurant": "Woop park Ljubljana",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "70107dd321e2",
-        "username": "admin",
-        "date": "2023-12-13",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "80134d9cdd77",
-        "username": "admin",
-        "date": "2023-12-14",
-        "restaurant": "Royal Best kebab",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "1329f1229563",
-        "username": "admin",
-        "date": "2023-12-15",
-        "restaurant": "McDonald's Ljubljana Žito",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "7055b6842ae0",
-        "username": "admin",
-        "date": "2023-12-16",
-        "restaurant": "McDonald's Ljubljana Žito",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "b1921678973e",
-        "username": "admin",
-        "date": "2023-12-17",
-        "restaurant": "Radisson Blue restaurant",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "4d822ebcd88c",
-        "username": "user",
-        "date": "2023-12-03",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "c917204faa60",
-        "username": "user",
-        "date": "2023-12-04",
-        "restaurant": "Restavracija Antaro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "6f34bbd04fc7",
-        "username": "user",
-        "date": "2023-12-05",
-        "restaurant": "Hood Burger BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "c5c07b09f057",
-        "username": "user",
-        "date": "2023-12-06",
-        "restaurant": "Restaurant Pogača",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "8d0c27fe90ac",
-        "username": "user",
-        "date": "2023-12-07",
-        "restaurant": "Street Food BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "8f3d1e82272a",
-        "username": "user",
-        "date": "2023-12-08",
-        "restaurant": "diVino restaurant & bar",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "c8feda0e8567",
-        "username": "user",
-        "date": "2023-12-09",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "3b05d8011bea",
-        "username": "user",
-        "date": "2023-12-10",
-        "restaurant": "Njam njam",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "173b54266ebd",
-        "username": "user",
-        "date": "2023-12-11",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "ce173e26fb59",
-        "username": "user",
-        "date": "2023-12-12",
-        "restaurant": "Cojzla",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "4777388bff9c",
-        "username": "user",
-        "date": "2023-12-13",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "072088d37ec6",
-        "username": "user",
-        "date": "2023-12-14",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "0a2050810423",
-        "username": "user",
-        "date": "2023-12-15",
-        "restaurant": "Ajda Premium Burger",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "832c436adfd1",
-        "username": "user",
-        "date": "2023-12-16",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "f56770a6233f",
-        "username": "user",
-        "date": "2023-12-17",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "7fd8b2650f7f",
-        "username": "AnaKovač",
-        "date": "2023-12-03",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "8cda6beede6d",
-        "username": "AnaKovač",
-        "date": "2023-12-04",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "cf453d8cf3ad",
-        "username": "AnaKovač",
-        "date": "2023-12-05",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "9f7f55682046",
-        "username": "AnaKovač",
-        "date": "2023-12-06",
-        "restaurant": "Cojzla",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "1d84a62325ef",
-        "username": "AnaKovač",
-        "date": "2023-12-07",
-        "restaurant": "Ajda Premium Burger",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "4c9020cef933",
-        "username": "AnaKovač",
-        "date": "2023-12-08",
-        "restaurant": "Restavracija Mingo",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "caaefda264e4",
-        "username": "AnaKovač",
-        "date": "2023-12-09",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "a5a0c93eb22f",
-        "username": "AnaKovač",
-        "date": "2023-12-10",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "fcb7c7418b9e",
-        "username": "AnaKovač",
-        "date": "2023-12-11",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "5ce34a18d4b3",
-        "username": "AnaKovač",
-        "date": "2023-12-12",
-        "restaurant": "Luna caffe",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "c5e2fc99dea5",
-        "username": "AnaKovač",
-        "date": "2023-12-13",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "523b57511dac",
-        "username": "AnaKovač",
-        "date": "2023-12-14",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "e08c400fd28b",
-        "username": "AnaKovač",
-        "date": "2023-12-15",
-        "restaurant": "Luna caffe",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "bdcb1223d03e",
-        "username": "AnaKovač",
-        "date": "2023-12-16",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "d36d0985d356",
-        "username": "AnaKovač",
-        "date": "2023-12-17",
-        "restaurant": "Luna caffe",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "7d9f97e1f553",
-        "username": "MarkoNovak",
-        "date": "2023-12-03",
-        "restaurant": "Cojzla",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "d1f999517f09",
-        "username": "MarkoNovak",
-        "date": "2023-12-04",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "9b8a066be5b6",
-        "username": "MarkoNovak",
-        "date": "2023-12-05",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "8172ab0235ba",
-        "username": "MarkoNovak",
-        "date": "2023-12-06",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "d897ded4bde3",
-        "username": "MarkoNovak",
-        "date": "2023-12-07",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "0e8ce0e4a398",
-        "username": "MarkoNovak",
-        "date": "2023-12-08",
-        "restaurant": "McDonald's Ljubljana Žito",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "e720a005d283",
-        "username": "MarkoNovak",
-        "date": "2023-12-09",
-        "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "40b05d6d6c4a",
-        "username": "MarkoNovak",
-        "date": "2023-12-10",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "69aeae4a4a08",
-        "username": "MarkoNovak",
-        "date": "2023-12-11",
-        "restaurant": "Royal Best kebab",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "c79e9750c86e",
-        "username": "MarkoNovak",
-        "date": "2023-12-12",
-        "restaurant": "Subway",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "c8eb1031106b",
-        "username": "MarkoNovak",
-        "date": "2023-12-13",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "d067a97d8b5e",
-        "username": "MarkoNovak",
-        "date": "2023-12-14",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "394a75a13de5",
-        "username": "MarkoNovak",
-        "date": "2023-12-15",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "47d46d8c4aed",
-        "username": "MarkoNovak",
-        "date": "2023-12-16",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "461cb3debd0c",
-        "username": "MarkoNovak",
-        "date": "2023-12-17",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "1ba1a9fa8fb3",
-        "username": "MajaLah",
-        "date": "2023-12-03",
-        "restaurant": "Gostilna Euro Gurman",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "eba287e5f977",
-        "username": "MajaLah",
-        "date": "2023-12-04",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "3c9e2230c56c",
-        "username": "MajaLah",
-        "date": "2023-12-05",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "80e484ec3c64",
-        "username": "MajaLah",
-        "date": "2023-12-06",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "aec1e0229a7d",
-        "username": "MajaLah",
-        "date": "2023-12-07",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "8fc909fedcb1",
-        "username": "MajaLah",
-        "date": "2023-12-08",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "c05661ecf5d9",
-        "username": "MajaLah",
-        "date": "2023-12-09",
-        "restaurant": "Street Food BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "f654c7ba6205",
-        "username": "MajaLah",
-        "date": "2023-12-10",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "7594f67699c7",
-        "username": "MajaLah",
-        "date": "2023-12-11",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "311e6c8b187d",
-        "username": "MajaLah",
-        "date": "2023-12-12",
-        "restaurant": "Argentino",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "7bc829ba2752",
-        "username": "MajaLah",
-        "date": "2023-12-13",
-        "restaurant": "Street Food BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "0e66a5f076c3",
-        "username": "MajaLah",
-        "date": "2023-12-14",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "6d317ab24d1d",
-        "username": "MajaLah",
-        "date": "2023-12-15",
-        "restaurant": "Gostilna Euro Gurman",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "8e18f54e2313",
-        "username": "MajaLah",
-        "date": "2023-12-16",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "46c79bbd566b",
-        "username": "MajaLah",
-        "date": "2023-12-17",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "b6b31526ce5a",
-        "username": "BorisHorvat",
-        "date": "2023-12-03",
-        "restaurant": "McDonald's Ljubljana Žito",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "cfcc375b5643",
-        "username": "BorisHorvat",
-        "date": "2023-12-04",
-        "restaurant": "Street Food BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "b99b1db6f5a6",
-        "username": "BorisHorvat",
-        "date": "2023-12-05",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "a18afc121123",
-        "username": "BorisHorvat",
-        "date": "2023-12-06",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "71876c7a20ab",
-        "username": "BorisHorvat",
-        "date": "2023-12-07",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "cb5636c0b23c",
-        "username": "BorisHorvat",
-        "date": "2023-12-08",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "84b54fae6c41",
-        "username": "BorisHorvat",
-        "date": "2023-12-09",
-        "restaurant": "Restavracija Antaro",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "ece641068875",
-        "username": "BorisHorvat",
-        "date": "2023-12-10",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "fd4aacdb9c9b",
-        "username": "BorisHorvat",
-        "date": "2023-12-11",
-        "restaurant": "Radisson Blue restaurant",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "325fa62005cd",
-        "username": "BorisHorvat",
-        "date": "2023-12-12",
-        "restaurant": "Radisson Blue restaurant",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "4214583f30ea",
-        "username": "BorisHorvat",
-        "date": "2023-12-13",
-        "restaurant": "Njam njam",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "a00387f40a57",
-        "username": "BorisHorvat",
-        "date": "2023-12-14",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "a32822802879",
-        "username": "BorisHorvat",
-        "date": "2023-12-15",
-        "restaurant": "Subway",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "3e0b4992df9c",
-        "username": "BorisHorvat",
-        "date": "2023-12-16",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "f520505fbc81",
-        "username": "BorisHorvat",
-        "date": "2023-12-17",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "50f8387fbb01",
-        "username": "EvaZupan",
-        "date": "2023-12-03",
-        "restaurant": "Luna caffe",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "13869ca2b0fe",
-        "username": "EvaZupan",
-        "date": "2023-12-04",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "b9d812419b48",
-        "username": "EvaZupan",
-        "date": "2023-12-05",
-        "restaurant": "Hood Burger BTC",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "44ed3943288d",
-        "username": "EvaZupan",
-        "date": "2023-12-06",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "7643ef0c9377",
-        "username": "EvaZupan",
-        "date": "2023-12-07",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "043bb1809621",
-        "username": "EvaZupan",
-        "date": "2023-12-08",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "61a9f4cb6304",
-        "username": "EvaZupan",
-        "date": "2023-12-09",
-        "restaurant": "Restavracija Antaro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "62449329a56c",
-        "username": "EvaZupan",
-        "date": "2023-12-10",
-        "restaurant": "Woop park Ljubljana",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "4ded5626a2d0",
-        "username": "EvaZupan",
-        "date": "2023-12-11",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "c03f65c5dc7c",
-        "username": "EvaZupan",
-        "date": "2023-12-12",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "46a7ea2f0598",
-        "username": "EvaZupan",
-        "date": "2023-12-13",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "1d32129cc132",
-        "username": "EvaZupan",
-        "date": "2023-12-14",
-        "restaurant": "Street Food BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "3ec4b5f20b48",
-        "username": "EvaZupan",
-        "date": "2023-12-15",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "8a4a7987a506",
-        "username": "EvaZupan",
-        "date": "2023-12-16",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "e24e4bbd309f",
-        "username": "EvaZupan",
-        "date": "2023-12-17",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "8bf8cd8735e8",
-        "username": "GregorKrajnc",
-        "date": "2023-12-03",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "44ca5b73f601",
-        "username": "GregorKrajnc",
-        "date": "2023-12-04",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "b56cb1b8603c",
-        "username": "GregorKrajnc",
-        "date": "2023-12-05",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "2363de0f3505",
-        "username": "GregorKrajnc",
-        "date": "2023-12-06",
-        "restaurant": "Njam njam",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "3ece98962137",
-        "username": "GregorKrajnc",
-        "date": "2023-12-07",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "d0d98a19c97a",
-        "username": "GregorKrajnc",
-        "date": "2023-12-08",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "d4d3a2ac3522",
-        "username": "GregorKrajnc",
-        "date": "2023-12-09",
-        "restaurant": "Argentino",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "ae692d517777",
-        "username": "GregorKrajnc",
-        "date": "2023-12-10",
-        "restaurant": "Radisson Blue restaurant",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "97e453476560",
-        "username": "GregorKrajnc",
-        "date": "2023-12-11",
-        "restaurant": "Gostilna Euro Gurman",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "63b72e2578e7",
-        "username": "GregorKrajnc",
-        "date": "2023-12-12",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "d197248922a3",
-        "username": "GregorKrajnc",
-        "date": "2023-12-13",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "4ad08647d3bd",
-        "username": "GregorKrajnc",
-        "date": "2023-12-14",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "784998c8074e",
-        "username": "GregorKrajnc",
-        "date": "2023-12-15",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "55e229b71fd0",
-        "username": "GregorKrajnc",
-        "date": "2023-12-16",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "a61deb28e344",
-        "username": "GregorKrajnc",
-        "date": "2023-12-17",
-        "restaurant": "Gostilna Euro Gurman",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "a882dd1200ea",
-        "username": "NinaPetrovič",
-        "date": "2023-12-03",
-        "restaurant": "Luna caffe",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "de137e20d5b9",
-        "username": "NinaPetrovič",
-        "date": "2023-12-04",
-        "restaurant": "Restaurant Pogača",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "3e18377f7db4",
-        "username": "NinaPetrovič",
-        "date": "2023-12-05",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "d9b12615e612",
-        "username": "NinaPetrovič",
-        "date": "2023-12-06",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "df2f9a777e45",
-        "username": "NinaPetrovič",
-        "date": "2023-12-07",
-        "restaurant": "Subway",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "a37d66b64733",
-        "username": "NinaPetrovič",
-        "date": "2023-12-08",
-        "restaurant": "Woop park Ljubljana",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "8cc3d7af3845",
-        "username": "NinaPetrovič",
-        "date": "2023-12-09",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "34295dc31685",
-        "username": "NinaPetrovič",
-        "date": "2023-12-10",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "4af121c2ce8b",
-        "username": "NinaPetrovič",
-        "date": "2023-12-11",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "3e64c0e549e7",
-        "username": "NinaPetrovič",
-        "date": "2023-12-12",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "89727464b51a",
-        "username": "NinaPetrovič",
-        "date": "2023-12-13",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "7e684b8c54b3",
-        "username": "NinaPetrovič",
-        "date": "2023-12-14",
-        "restaurant": "Subway",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "5977c441b82c",
-        "username": "NinaPetrovič",
-        "date": "2023-12-15",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "a67461bda499",
-        "username": "NinaPetrovič",
-        "date": "2023-12-16",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "d2f87ed557b3",
-        "username": "NinaPetrovič",
-        "date": "2023-12-17",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "63661013e219",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-03",
-        "restaurant": "Restavracija Mingo",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "1e5f8d102580",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-04",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "b24b31afe13d",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-05",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "024e0db559cd",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-06",
-        "restaurant": "Gostilna Euro Gurman",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "2c771f346dad",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-07",
-        "restaurant": "McDonald's Ljubljana Žito",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "0d5fd16c7619",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-08",
-        "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "56f6f0c49200",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-09",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "4a25bf1d20c5",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-10",
-        "restaurant": "Gostilna Euro Gurman",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "7e969e3cceb1",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-11",
-        "restaurant": "Restaurant Pogača",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "e3811d046d14",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-12",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "88930fc72ba2",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-13",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "509fcf5ea6d0",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-14",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "9dd0f74d142c",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-15",
-        "restaurant": "Ajda Premium Burger",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "9ce9d18ce5ad",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-16",
-        "restaurant": "Ajda Premium Burger",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "3451f6c12d30",
-        "username": "ŽigaBizjak",
-        "date": "2023-12-17",
-        "restaurant": "Royal Best kebab",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "c7298afdd259",
-        "username": "LaraZorman",
-        "date": "2023-12-03",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "afc49db770ea",
-        "username": "LaraZorman",
-        "date": "2023-12-04",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "43bc5b29701f",
-        "username": "LaraZorman",
-        "date": "2023-12-05",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "5bebb3e700ff",
-        "username": "LaraZorman",
-        "date": "2023-12-06",
-        "restaurant": "Woop park Ljubljana",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "bbe1be2a6a3e",
-        "username": "LaraZorman",
-        "date": "2023-12-07",
-        "restaurant": "Woop park Ljubljana",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "878805dcbabc",
-        "username": "LaraZorman",
-        "date": "2023-12-08",
-        "restaurant": "Argentino",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "568b4c0f7282",
-        "username": "LaraZorman",
-        "date": "2023-12-09",
-        "restaurant": "Argentino",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "40443e9a46b5",
-        "username": "LaraZorman",
-        "date": "2023-12-10",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "12d5f1137a98",
-        "username": "LaraZorman",
-        "date": "2023-12-11",
-        "restaurant": "Ajda Premium Burger",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "3ecaa3467f97",
-        "username": "LaraZorman",
-        "date": "2023-12-12",
-        "restaurant": "Gostilna Euro Gurman",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "062b95b0d4fd",
-        "username": "LaraZorman",
-        "date": "2023-12-13",
-        "restaurant": "Ajda Premium Burger",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "44f0482e1a84",
-        "username": "LaraZorman",
-        "date": "2023-12-14",
-        "restaurant": "Cojzla",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "30f5a045bc24",
-        "username": "LaraZorman",
-        "date": "2023-12-15",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "4836555a0339",
-        "username": "LaraZorman",
-        "date": "2023-12-16",
-        "restaurant": "Restavracija Antaro",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "ae0616819b8d",
-        "username": "LaraZorman",
-        "date": "2023-12-17",
-        "restaurant": "Argentino",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "4e9dd2da4a95",
-        "username": "NikVidmar",
-        "date": "2023-12-03",
-        "restaurant": "Street Food BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "4310fe228370",
-        "username": "NikVidmar",
-        "date": "2023-12-04",
-        "restaurant": "Cojzla",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "d4b26ea55f8c",
-        "username": "NikVidmar",
-        "date": "2023-12-05",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "b33f0263fa10",
-        "username": "NikVidmar",
-        "date": "2023-12-06",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "6fad3779c9b9",
-        "username": "NikVidmar",
-        "date": "2023-12-07",
-        "restaurant": "diVino restaurant & bar",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "d5a100db57ee",
-        "username": "NikVidmar",
-        "date": "2023-12-08",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "cce57e319666",
-        "username": "NikVidmar",
-        "date": "2023-12-09",
-        "restaurant": "Njam njam",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "06f4fb376e4b",
-        "username": "NikVidmar",
-        "date": "2023-12-10",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "a026e3b16b41",
-        "username": "NikVidmar",
-        "date": "2023-12-11",
-        "restaurant": "Royal Best kebab",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "fc88dd6b81a5",
-        "username": "NikVidmar",
-        "date": "2023-12-12",
-        "restaurant": "Luna caffe",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "dacd4791aeb6",
-        "username": "NikVidmar",
-        "date": "2023-12-13",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "22f6c593796d",
-        "username": "NikVidmar",
-        "date": "2023-12-14",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "267dd1ccdc07",
-        "username": "NikVidmar",
-        "date": "2023-12-15",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "2c2cb82d5a79",
-        "username": "NikVidmar",
-        "date": "2023-12-16",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "b9a205bc5d45",
-        "username": "NikVidmar",
-        "date": "2023-12-17",
-        "restaurant": "Street Food BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "e0ed21d756fa",
-        "username": "EvaKobal",
-        "date": "2023-12-03",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "f763704ad8c8",
-        "username": "EvaKobal",
-        "date": "2023-12-04",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "814205867c03",
-        "username": "EvaKobal",
-        "date": "2023-12-05",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "bd3708b93b84",
-        "username": "EvaKobal",
-        "date": "2023-12-06",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "366ac81f3e3d",
-        "username": "EvaKobal",
-        "date": "2023-12-07",
-        "restaurant": "Radisson Blue restaurant",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "6135dbe6869a",
-        "username": "EvaKobal",
-        "date": "2023-12-08",
-        "restaurant": "Cojzla",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "a941c6de5f57",
-        "username": "EvaKobal",
-        "date": "2023-12-09",
-        "restaurant": "Luna caffe",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "15a4d76c38b8",
-        "username": "EvaKobal",
-        "date": "2023-12-10",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "50441167703a",
-        "username": "EvaKobal",
-        "date": "2023-12-11",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "75f207873944",
-        "username": "EvaKobal",
-        "date": "2023-12-12",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "cf94885599ac",
-        "username": "EvaKobal",
-        "date": "2023-12-13",
-        "restaurant": "Cojzla",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "daa122be8ac9",
-        "username": "EvaKobal",
-        "date": "2023-12-14",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "6f837cceeeb1",
-        "username": "EvaKobal",
-        "date": "2023-12-15",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "51d93fae1dfe",
-        "username": "EvaKobal",
-        "date": "2023-12-16",
-        "restaurant": "Njam njam",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "0e11f3b6ec66",
-        "username": "EvaKobal",
-        "date": "2023-12-17",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "be34da7c7a55",
-        "username": "MaticKos",
-        "date": "2023-12-03",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "6b253d2b9b48",
-        "username": "MaticKos",
-        "date": "2023-12-04",
-        "restaurant": "diVino restaurant & bar",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "a6bb06b21123",
-        "username": "MaticKos",
-        "date": "2023-12-05",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "eda478d1cbc6",
-        "username": "MaticKos",
-        "date": "2023-12-06",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "49babf737f46",
-        "username": "MaticKos",
-        "date": "2023-12-07",
-        "restaurant": "Restaurant Pogača",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "26fbde676182",
-        "username": "MaticKos",
-        "date": "2023-12-08",
-        "restaurant": "Woop park Ljubljana",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "5e6c4f126d98",
-        "username": "MaticKos",
-        "date": "2023-12-09",
-        "restaurant": "Restaurant Pogača",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "f70d8c50bb4f",
-        "username": "MaticKos",
-        "date": "2023-12-10",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "a79b818c5d04",
-        "username": "MaticKos",
-        "date": "2023-12-11",
-        "restaurant": "Argentino",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "8c9bf3ee097b",
-        "username": "MaticKos",
-        "date": "2023-12-12",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "328aa0be9a09",
-        "username": "MaticKos",
-        "date": "2023-12-13",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "a926181dc83c",
-        "username": "MaticKos",
-        "date": "2023-12-14",
-        "restaurant": "Njam njam",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "317d86d1acd5",
-        "username": "MaticKos",
-        "date": "2023-12-15",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "dbd417446024",
-        "username": "MaticKos",
-        "date": "2023-12-16",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "b5232cb60188",
-        "username": "MaticKos",
-        "date": "2023-12-17",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "9a9b447a32e0",
-        "username": "ZaraBregar",
-        "date": "2023-12-03",
-        "restaurant": "Radisson Blue restaurant",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "4a01dbc7b55d",
-        "username": "ZaraBregar",
-        "date": "2023-12-04",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "ce23b5f22449",
-        "username": "ZaraBregar",
-        "date": "2023-12-05",
-        "restaurant": "Ajda Premium Burger",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "8d18fc3dd3df",
-        "username": "ZaraBregar",
-        "date": "2023-12-06",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "490307623e78",
-        "username": "ZaraBregar",
-        "date": "2023-12-07",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "73caaee47053",
-        "username": "ZaraBregar",
-        "date": "2023-12-08",
-        "restaurant": "Gostilna Euro Gurman",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "1563e791fcfa",
-        "username": "ZaraBregar",
-        "date": "2023-12-09",
-        "restaurant": "Argentino",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "ae8d12493625",
-        "username": "ZaraBregar",
-        "date": "2023-12-10",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "c96126f659ac",
-        "username": "ZaraBregar",
-        "date": "2023-12-11",
-        "restaurant": "Royal Best kebab",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "f9a7b289aa9a",
-        "username": "ZaraBregar",
-        "date": "2023-12-12",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "a34259fe9e2b",
-        "username": "ZaraBregar",
-        "date": "2023-12-13",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "7ae9e2953107",
-        "username": "ZaraBregar",
-        "date": "2023-12-14",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "25aec32f2c0b",
-        "username": "ZaraBregar",
-        "date": "2023-12-15",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "1ac704fcbc09",
-        "username": "ZaraBregar",
-        "date": "2023-12-16",
-        "restaurant": "Subway",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "361e4da4ca3b",
-        "username": "ZaraBregar",
-        "date": "2023-12-17",
-        "restaurant": "Subway",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "3285c424d1e3",
-        "username": "AlenkaMedved",
-        "date": "2023-12-03",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "a07d448d874f",
-        "username": "AlenkaMedved",
-        "date": "2023-12-04",
-        "restaurant": "Njam njam",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "d95ce41fb8dc",
-        "username": "AlenkaMedved",
-        "date": "2023-12-05",
-        "restaurant": "Royal Best kebab",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "79353ebe20b8",
-        "username": "AlenkaMedved",
-        "date": "2023-12-06",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "af0758677972",
-        "username": "AlenkaMedved",
-        "date": "2023-12-07",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "870f20a705c4",
-        "username": "AlenkaMedved",
-        "date": "2023-12-08",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "3ff282b79b53",
-        "username": "AlenkaMedved",
-        "date": "2023-12-09",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "392b3de99d67",
-        "username": "AlenkaMedved",
-        "date": "2023-12-10",
-        "restaurant": "Radisson Blue restaurant",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "cc62bd6d11cc",
-        "username": "AlenkaMedved",
-        "date": "2023-12-11",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "a5e77338d66a",
-        "username": "AlenkaMedved",
-        "date": "2023-12-12",
-        "restaurant": "Gostilna Euro Gurman",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "9bdc0ccd9190",
-        "username": "AlenkaMedved",
-        "date": "2023-12-13",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "4bca4a9cd168",
-        "username": "AlenkaMedved",
-        "date": "2023-12-14",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "25d677b03567",
-        "username": "AlenkaMedved",
-        "date": "2023-12-15",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "09fd74edc5d1",
-        "username": "AlenkaMedved",
-        "date": "2023-12-16",
-        "restaurant": "Cojzla",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "0bce7c05f653",
-        "username": "AlenkaMedved",
-        "date": "2023-12-17",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "ae13fbd922db",
-        "username": "UrbanCerar",
-        "date": "2023-12-03",
-        "restaurant": "Argentino",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "95f5bfa12111",
-        "username": "UrbanCerar",
-        "date": "2023-12-04",
-        "restaurant": "Ajda Premium Burger",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "5557319b953e",
-        "username": "UrbanCerar",
-        "date": "2023-12-05",
-        "restaurant": "Argentino",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "e9b712fa0994",
-        "username": "UrbanCerar",
-        "date": "2023-12-06",
-        "restaurant": "Njam njam",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "016eb0d57a44",
-        "username": "UrbanCerar",
-        "date": "2023-12-07",
-        "restaurant": "Radisson Blue restaurant",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "fae4b048c870",
-        "username": "UrbanCerar",
-        "date": "2023-12-08",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "248108a9d5c2",
-        "username": "UrbanCerar",
-        "date": "2023-12-09",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "16a52764ab45",
-        "username": "UrbanCerar",
-        "date": "2023-12-10",
-        "restaurant": "Restavracija Antaro",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "0e3968ca227e",
-        "username": "UrbanCerar",
-        "date": "2023-12-11",
-        "restaurant": "Woop park Ljubljana",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "d405d57401bc",
-        "username": "UrbanCerar",
-        "date": "2023-12-12",
-        "restaurant": "Restavracija Mingo",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "9c2c04aaa540",
-        "username": "UrbanCerar",
-        "date": "2023-12-13",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "7bf451dee5b3",
-        "username": "UrbanCerar",
-        "date": "2023-12-14",
-        "restaurant": "Subway",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "22cc515d309d",
-        "username": "UrbanCerar",
-        "date": "2023-12-15",
-        "restaurant": "Restaurant Pogača",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "c4397878fcbb",
-        "username": "UrbanCerar",
-        "date": "2023-12-16",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "f338694112fa",
-        "username": "UrbanCerar",
-        "date": "2023-12-17",
-        "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "fb252ecb3cfb",
-        "username": "LeaPavlin",
-        "date": "2023-12-03",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "c0c81030427f",
-        "username": "LeaPavlin",
-        "date": "2023-12-04",
-        "restaurant": "Njam njam",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "38f32831f722",
-        "username": "LeaPavlin",
-        "date": "2023-12-05",
-        "restaurant": "Subway",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "57f5c365ad78",
-        "username": "LeaPavlin",
-        "date": "2023-12-06",
-        "restaurant": "McDonald's Ljubljana Žito",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "22f3895becf8",
-        "username": "LeaPavlin",
-        "date": "2023-12-07",
-        "restaurant": "diVino restaurant & bar",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "95d5bdc4d475",
-        "username": "LeaPavlin",
-        "date": "2023-12-08",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "10d734e8c76e",
-        "username": "LeaPavlin",
-        "date": "2023-12-09",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "27c35d8543d9",
-        "username": "LeaPavlin",
-        "date": "2023-12-10",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "7b50feadf720",
-        "username": "LeaPavlin",
-        "date": "2023-12-11",
-        "restaurant": "diVino restaurant & bar",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "751691fe44c7",
-        "username": "LeaPavlin",
-        "date": "2023-12-12",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "255f26ca7389",
-        "username": "LeaPavlin",
-        "date": "2023-12-13",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "7b0c4448cafa",
-        "username": "LeaPavlin",
-        "date": "2023-12-14",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "47cfd89985e5",
-        "username": "LeaPavlin",
-        "date": "2023-12-15",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "5bb96e54e956",
-        "username": "LeaPavlin",
-        "date": "2023-12-16",
-        "restaurant": "Radisson Blue restaurant",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "fdec7b3c17f3",
-        "username": "LeaPavlin",
-        "date": "2023-12-17",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "be7ccd198de7",
-        "username": "TjašaKranjec",
-        "date": "2023-12-03",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "c084ead28749",
-        "username": "TjašaKranjec",
-        "date": "2023-12-04",
-        "restaurant": "Argentino",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "1e49108ea738",
-        "username": "TjašaKranjec",
-        "date": "2023-12-05",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "dc7abcc2fe88",
-        "username": "TjašaKranjec",
-        "date": "2023-12-06",
-        "restaurant": "Restaurant Pogača",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "fbb6f507f099",
-        "username": "TjašaKranjec",
-        "date": "2023-12-07",
-        "restaurant": "Restaurant Pogača",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "52765cf79c17",
-        "username": "TjašaKranjec",
-        "date": "2023-12-08",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "4ea9b813581c",
-        "username": "TjašaKranjec",
-        "date": "2023-12-09",
-        "restaurant": "diVino restaurant & bar",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "e91abe064d07",
-        "username": "TjašaKranjec",
-        "date": "2023-12-10",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "6a841754e740",
-        "username": "TjašaKranjec",
-        "date": "2023-12-11",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "329001e1a9e5",
-        "username": "TjašaKranjec",
-        "date": "2023-12-12",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "1ec487c3d371",
-        "username": "TjašaKranjec",
-        "date": "2023-12-13",
-        "restaurant": "Cojzla",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "88e684e0a415",
-        "username": "TjašaKranjec",
-        "date": "2023-12-14",
-        "restaurant": "diVino restaurant & bar",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "defc1afbdf88",
-        "username": "TjašaKranjec",
-        "date": "2023-12-15",
-        "restaurant": "Royal Best kebab",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "6c4d44c0be95",
-        "username": "TjašaKranjec",
-        "date": "2023-12-16",
-        "restaurant": "diVino restaurant & bar",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "2b09c044add4",
-        "username": "TjašaKranjec",
-        "date": "2023-12-17",
-        "restaurant": "Njam njam",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "eff9c5f41c33",
-        "username": "MihaNovak",
-        "date": "2023-12-03",
-        "restaurant": "Restaurant Pogača",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "4c96436dc8ef",
-        "username": "MihaNovak",
-        "date": "2023-12-04",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "afa496300864",
-        "username": "MihaNovak",
-        "date": "2023-12-05",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "2f61f631a16e",
-        "username": "MihaNovak",
-        "date": "2023-12-06",
-        "restaurant": "Restavracija Mingo",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "4bd464963184",
-        "username": "MihaNovak",
-        "date": "2023-12-07",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "238cb93a1785",
-        "username": "MihaNovak",
-        "date": "2023-12-08",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "9406f989c4cc",
-        "username": "MihaNovak",
-        "date": "2023-12-09",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "2ed3ebd7f869",
-        "username": "MihaNovak",
-        "date": "2023-12-10",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "e02ae74ff713",
-        "username": "MihaNovak",
-        "date": "2023-12-11",
-        "restaurant": "Cojzla",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "0df7398fd5c3",
-        "username": "MihaNovak",
-        "date": "2023-12-12",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "c330db06f426",
-        "username": "MihaNovak",
-        "date": "2023-12-13",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "162c99b88822",
-        "username": "MihaNovak",
-        "date": "2023-12-14",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "31fc52524149",
-        "username": "MihaNovak",
-        "date": "2023-12-15",
-        "restaurant": "Subway",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "71225e7b07da",
-        "username": "MihaNovak",
-        "date": "2023-12-16",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "139b6f7e76d1",
-        "username": "MihaNovak",
-        "date": "2023-12-17",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "a20ff1d4f3c2",
-        "username": "KatjaLah",
-        "date": "2023-12-03",
-        "restaurant": "Restavracija Mingo",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "c027bcdd5818",
-        "username": "KatjaLah",
-        "date": "2023-12-04",
-        "restaurant": "McDonald's Ljubljana Žito",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "a0ebcd1c86f6",
-        "username": "KatjaLah",
-        "date": "2023-12-05",
-        "restaurant": "Woop park Ljubljana",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "db038b48a23c",
-        "username": "KatjaLah",
-        "date": "2023-12-06",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "4a8976607b35",
-        "username": "KatjaLah",
-        "date": "2023-12-07",
-        "restaurant": "Restavracija Antaro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "71e5907d1c56",
-        "username": "KatjaLah",
-        "date": "2023-12-08",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "6864b8777818",
-        "username": "KatjaLah",
-        "date": "2023-12-09",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "bc1151903151",
-        "username": "KatjaLah",
-        "date": "2023-12-10",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "094f799c75aa",
-        "username": "KatjaLah",
-        "date": "2023-12-11",
-        "restaurant": "Hood Burger BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "596ff9024d24",
-        "username": "KatjaLah",
-        "date": "2023-12-12",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "934ec42922be",
-        "username": "KatjaLah",
-        "date": "2023-12-13",
-        "restaurant": "Restavracija Mingo",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "b702c69258f5",
-        "username": "KatjaLah",
-        "date": "2023-12-14",
-        "restaurant": "Street Food BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "83faac3583ab",
-        "username": "KatjaLah",
-        "date": "2023-12-15",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "3d3d49082dcc",
-        "username": "KatjaLah",
-        "date": "2023-12-16",
-        "restaurant": "Cojzla",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "c233823a4d45",
-        "username": "KatjaLah",
-        "date": "2023-12-17",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "6f9af8242c4f",
-        "username": "LukaGolob",
-        "date": "2023-12-03",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "3e93073448af",
-        "username": "LukaGolob",
-        "date": "2023-12-04",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "b46c076980d8",
-        "username": "LukaGolob",
-        "date": "2023-12-05",
-        "restaurant": "Subway",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "9e8daf71e29b",
-        "username": "LukaGolob",
-        "date": "2023-12-06",
-        "restaurant": "Gostilna Euro Gurman",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "1b2cc74624f9",
-        "username": "LukaGolob",
-        "date": "2023-12-07",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "a1bd637990cd",
-        "username": "LukaGolob",
-        "date": "2023-12-08",
-        "restaurant": "Restavracija Mingo",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "d1c973d3ea4f",
-        "username": "LukaGolob",
-        "date": "2023-12-09",
-        "restaurant": "Restavracija Antaro",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "8320a612dcfb",
-        "username": "LukaGolob",
-        "date": "2023-12-10",
-        "restaurant": "Woop park Ljubljana",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "5d1d21e284c0",
-        "username": "LukaGolob",
-        "date": "2023-12-11",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "fabe07b2813d",
-        "username": "LukaGolob",
-        "date": "2023-12-12",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "da4fcb01ff0a",
-        "username": "LukaGolob",
-        "date": "2023-12-13",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "e4053163aa7a",
-        "username": "LukaGolob",
-        "date": "2023-12-14",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "73cb54afb5c5",
-        "username": "LukaGolob",
-        "date": "2023-12-15",
-        "restaurant": "Subway",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "02a9715728a4",
-        "username": "LukaGolob",
-        "date": "2023-12-16",
-        "restaurant": "Njam njam",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "24d603055c31",
-        "username": "LukaGolob",
-        "date": "2023-12-17",
-        "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "27d032cfa454",
-        "username": "NinaHribar",
-        "date": "2023-12-03",
-        "restaurant": "diVino restaurant & bar",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "7e7d06a8b331",
-        "username": "NinaHribar",
-        "date": "2023-12-04",
-        "restaurant": "McDonald's Ljubljana Žito",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "c240349d52c4",
-        "username": "NinaHribar",
-        "date": "2023-12-05",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "badbbc97c756",
-        "username": "NinaHribar",
-        "date": "2023-12-06",
-        "restaurant": "Street Food BTC",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "e3049ed14136",
-        "username": "NinaHribar",
-        "date": "2023-12-07",
-        "restaurant": "Gostilna Euro Gurman",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "b5041f59c69e",
-        "username": "NinaHribar",
-        "date": "2023-12-08",
-        "restaurant": "Hood Burger BTC",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "8ae5bb32e061",
-        "username": "NinaHribar",
-        "date": "2023-12-09",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "936fd32f8371",
-        "username": "NinaHribar",
-        "date": "2023-12-10",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "172ab6c255c1",
-        "username": "NinaHribar",
-        "date": "2023-12-11",
-        "restaurant": "Argentino",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "6e05c760ef39",
-        "username": "NinaHribar",
-        "date": "2023-12-12",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "ae2ded4a750e",
-        "username": "NinaHribar",
-        "date": "2023-12-13",
-        "restaurant": "diVino restaurant & bar",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "e59876d57739",
-        "username": "NinaHribar",
-        "date": "2023-12-14",
-        "restaurant": "Woop park Ljubljana",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "8d78ab511439",
-        "username": "NinaHribar",
-        "date": "2023-12-15",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "c26e3dd2687a",
-        "username": "NinaHribar",
-        "date": "2023-12-16",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "d7ce00e59c10",
-        "username": "NinaHribar",
-        "date": "2023-12-17",
-        "restaurant": "Njam njam",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "cae0ee9dce1b",
-        "username": "ŽanZupančič",
-        "date": "2023-12-03",
-        "restaurant": "Ajda Premium Burger",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "82b32a5c23b0",
-        "username": "ŽanZupančič",
-        "date": "2023-12-04",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "0e34b39b5284",
-        "username": "ŽanZupančič",
-        "date": "2023-12-05",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "99d1a2ecb95e",
-        "username": "ŽanZupančič",
-        "date": "2023-12-06",
-        "restaurant": "Argentino",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "26b6e94830e9",
-        "username": "ŽanZupančič",
-        "date": "2023-12-07",
-        "restaurant": "Radisson Blue restaurant",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "cbfca88b7d91",
-        "username": "ŽanZupančič",
-        "date": "2023-12-08",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "5b8979aa7583",
-        "username": "ŽanZupančič",
-        "date": "2023-12-09",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "196313c3309d",
-        "username": "ŽanZupančič",
-        "date": "2023-12-10",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "bf98e6d2f10b",
-        "username": "ŽanZupančič",
-        "date": "2023-12-11",
-        "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "63ff8ffb8829",
-        "username": "ŽanZupančič",
-        "date": "2023-12-12",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "bd4de9eaaff8",
-        "username": "ŽanZupančič",
-        "date": "2023-12-13",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "fbe0c8d4a138",
-        "username": "ŽanZupančič",
-        "date": "2023-12-14",
-        "restaurant": "Njam njam",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "0499f8a18e30",
-        "username": "ŽanZupančič",
-        "date": "2023-12-15",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "c65526d74807",
-        "username": "ŽanZupančič",
-        "date": "2023-12-16",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "a9ca63a982c2",
-        "username": "ŽanZupančič",
-        "date": "2023-12-17",
-        "restaurant": "Njam njam",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "d62ed1e8ae9a",
-        "username": "EmaHafner",
-        "date": "2023-12-03",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "3ab71083c0e2",
-        "username": "EmaHafner",
-        "date": "2023-12-04",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "ab21dab4f20d",
-        "username": "EmaHafner",
-        "date": "2023-12-05",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "5f06c3489d4a",
-        "username": "EmaHafner",
-        "date": "2023-12-06",
-        "restaurant": "Argentino",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "fcb6a15fee9f",
-        "username": "EmaHafner",
-        "date": "2023-12-07",
-        "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "f0e2549b2803",
-        "username": "EmaHafner",
-        "date": "2023-12-08",
-        "restaurant": "Radisson Blue restaurant",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "b457505ae65d",
-        "username": "EmaHafner",
-        "date": "2023-12-09",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "87973c689c85",
-        "username": "EmaHafner",
-        "date": "2023-12-10",
-        "restaurant": "Radisson Blue restaurant",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "0d3b8b5f5ffb",
-        "username": "EmaHafner",
-        "date": "2023-12-11",
-        "restaurant": "Argentino",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "a48c259947da",
-        "username": "EmaHafner",
-        "date": "2023-12-12",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "c07970d12732",
-        "username": "EmaHafner",
-        "date": "2023-12-13",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "d3000e10262c",
-        "username": "EmaHafner",
-        "date": "2023-12-14",
-        "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "ee0113234c98",
-        "username": "EmaHafner",
-        "date": "2023-12-15",
-        "restaurant": "Cojzla",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "f8dc2a94219a",
-        "username": "EmaHafner",
-        "date": "2023-12-16",
-        "restaurant": "Ajda Premium Burger",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "9a78201293e5",
-        "username": "EmaHafner",
-        "date": "2023-12-17",
-        "restaurant": "Argentino",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "b28ef188fa19",
-        "username": "BorutPetrovič",
-        "date": "2023-12-03",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "af348d0fa8c7",
-        "username": "BorutPetrovič",
-        "date": "2023-12-04",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "1302e0f40f62",
-        "username": "BorutPetrovič",
-        "date": "2023-12-05",
-        "restaurant": "Restaurant Pogača",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "323bc373d29c",
-        "username": "BorutPetrovič",
-        "date": "2023-12-06",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "cd22b87387a3",
-        "username": "BorutPetrovič",
-        "date": "2023-12-07",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "d0ced370f3c8",
-        "username": "BorutPetrovič",
-        "date": "2023-12-08",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "fd1bee8b6f58",
-        "username": "BorutPetrovič",
-        "date": "2023-12-09",
-        "restaurant": "McDonald's Ljubljana Žito",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "3c4522114e5d",
-        "username": "BorutPetrovič",
-        "date": "2023-12-10",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "001f9ae690e0",
-        "username": "BorutPetrovič",
-        "date": "2023-12-11",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "a3eb8080798a",
-        "username": "BorutPetrovič",
-        "date": "2023-12-12",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "c303e5651367",
-        "username": "BorutPetrovič",
-        "date": "2023-12-13",
-        "restaurant": "Radisson Blue restaurant",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "83923d350b93",
-        "username": "BorutPetrovič",
-        "date": "2023-12-14",
-        "restaurant": "McDonald's Ljubljana Žito",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "d97f6c97f572",
-        "username": "BorutPetrovič",
-        "date": "2023-12-15",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "0c108abf7847",
-        "username": "BorutPetrovič",
-        "date": "2023-12-16",
-        "restaurant": "Woop park Ljubljana",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "19e19264f53b",
-        "username": "BorutPetrovič",
-        "date": "2023-12-17",
-        "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "ac6a3b30dd0c",
-        "username": "MašaNovak",
-        "date": "2023-12-03",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "d0cbc2e10e60",
-        "username": "MašaNovak",
-        "date": "2023-12-04",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "75ff57d76f54",
-        "username": "MašaNovak",
-        "date": "2023-12-05",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "9b7213b33be0",
-        "username": "MašaNovak",
-        "date": "2023-12-06",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "3e152a327708",
-        "username": "MašaNovak",
-        "date": "2023-12-07",
-        "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "4083a3789bd3",
-        "username": "MašaNovak",
-        "date": "2023-12-08",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "a0c387c7577d",
-        "username": "MašaNovak",
-        "date": "2023-12-09",
-        "restaurant": "Subway",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "31af87370831",
-        "username": "MašaNovak",
-        "date": "2023-12-10",
-        "restaurant": "Njam njam",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "b5952f01bf73",
-        "username": "MašaNovak",
-        "date": "2023-12-11",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "861a9e4dce61",
-        "username": "MašaNovak",
-        "date": "2023-12-12",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "2d6fd3ad7001",
-        "username": "MašaNovak",
-        "date": "2023-12-13",
-        "restaurant": "Barbarella BTC Bistro",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "0c15ec57d595",
-        "username": "MašaNovak",
-        "date": "2023-12-14",
-        "restaurant": "Njam njam",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "ee25f7fba971",
-        "username": "MašaNovak",
-        "date": "2023-12-15",
-        "restaurant": "Woop park Ljubljana",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "5d70e096000b",
-        "username": "MašaNovak",
-        "date": "2023-12-16",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "cf85da7aa79a",
-        "username": "MašaNovak",
-        "date": "2023-12-17",
-        "restaurant": "Gostilnica in pizzerija Perla",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "7807a9165899",
-        "username": "TineHribar",
-        "date": "2023-12-03",
-        "restaurant": "Restaurant Pogača",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "e469b205c1f6",
-        "username": "TineHribar",
-        "date": "2023-12-04",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "1fe5dfefb01c",
-        "username": "TineHribar",
-        "date": "2023-12-05",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "f2d417f590dc",
-        "username": "TineHribar",
-        "date": "2023-12-06",
-        "restaurant": "Street Food BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "52120100fd8e",
-        "username": "TineHribar",
-        "date": "2023-12-07",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "25b755a6a778",
-        "username": "TineHribar",
-        "date": "2023-12-08",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "4e5964606fc4",
-        "username": "TineHribar",
-        "date": "2023-12-09",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "474560de9040",
-        "username": "TineHribar",
-        "date": "2023-12-10",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "0f878131601c",
-        "username": "TineHribar",
-        "date": "2023-12-11",
-        "restaurant": "FNX Kavarna & Bistro",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "7f7a226fab0b",
-        "username": "TineHribar",
-        "date": "2023-12-12",
-        "restaurant": "Bon Appetit",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "0f1a01a29c1a",
-        "username": "TineHribar",
-        "date": "2023-12-13",
-        "restaurant": "Chang, Ljubljana BTC",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "5be14eb18373",
-        "username": "TineHribar",
-        "date": "2023-12-14",
-        "restaurant": "Gostilna in pizzerija BREZA",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "e34822b7cf0f",
-        "username": "TineHribar",
-        "date": "2023-12-15",
-        "restaurant": "Argentino",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "34d3e8d927d9",
-        "username": "TineHribar",
-        "date": "2023-12-16",
-        "restaurant": "PICAROLE WOOP! KARTING",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "2ea6545348ec",
-        "username": "TineHribar",
-        "date": "2023-12-17",
-        "restaurant": "Argentino",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "0fd53e1838f2",
-        "username": "AnaKorošec",
-        "date": "2023-12-03",
-        "restaurant": "McDonald's Ljubljana Žito",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "872feb9a6b1d",
-        "username": "AnaKorošec",
-        "date": "2023-12-04",
-        "restaurant": "GOSTILNA POD KOSTANJI",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "3ee389e736c7",
-        "username": "AnaKorošec",
-        "date": "2023-12-05",
-        "restaurant": "Lunch at the ranch",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "855958c5af77",
-        "username": "AnaKorošec",
-        "date": "2023-12-06",
-        "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "73bdcadf732e",
-        "username": "AnaKorošec",
-        "date": "2023-12-07",
-        "restaurant": "Subway",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "3c8f47d6a75f",
-        "username": "AnaKorošec",
-        "date": "2023-12-08",
-        "restaurant": "Njam njam",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "196878acfdfe",
-        "username": "AnaKorošec",
-        "date": "2023-12-09",
-        "restaurant": "Njam njam",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "65ed7f0b5702",
-        "username": "AnaKorošec",
-        "date": "2023-12-10",
-        "restaurant": "Gostilna in pizzerija Jurman",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "295d9ccceedf",
-        "username": "AnaKorošec",
-        "date": "2023-12-11",
-        "restaurant": "Radisson BLU breakfast Bar",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "d983b7a6906c",
-        "username": "AnaKorošec",
-        "date": "2023-12-12",
-        "restaurant": "Gostilna Euro Gurman",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "9bcd17e5ae5e",
-        "username": "AnaKorošec",
-        "date": "2023-12-13",
-        "restaurant": "Street Food BTC",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "db8461403a67",
-        "username": "AnaKorošec",
-        "date": "2023-12-14",
-        "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
-        "lunch_time": "11:00"
-    },
-    {
-        "_id": "2322290642dd",
-        "username": "AnaKorošec",
-        "date": "2023-12-15",
-        "restaurant": "Zmajev paviljon",
-        "lunch_time": "12:00"
-    },
-    {
-        "_id": "68b4c8c36e41",
-        "username": "AnaKorošec",
-        "date": "2023-12-16",
-        "restaurant": "Ajda Premium Burger",
-        "lunch_time": "13:00"
-    },
-    {
-        "_id": "c9a06677bcf3",
-        "username": "AnaKorošec",
-        "date": "2023-12-17",
-        "restaurant": "Njam njam",
-        "lunch_time": "12:00"
-    }
+  {
+      "_id": "b4b303e4cf03",
+      "username": "admin",
+      "date": "2023-11-12",
+      "restaurant": "Cojzla",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "575c7974a89a",
+      "username": "admin",
+      "date": "2023-11-13",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "1c8ac0dc6978",
+      "username": "admin",
+      "date": "2023-11-14",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "10074f881142",
+      "username": "admin",
+      "date": "2023-11-15",
+      "restaurant": "Restavracija Antaro",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "74260ac41c5f",
+      "username": "admin",
+      "date": "2023-11-16",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "3303fe6d99d0",
+      "username": "admin",
+      "date": "2023-11-17",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "1bd11ac264d7",
+      "username": "admin",
+      "date": "2023-11-18",
+      "restaurant": "Luna caffe",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "549e8995b4cd",
+      "username": "admin",
+      "date": "2023-11-19",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "4db55047c413",
+      "username": "admin",
+      "date": "2023-11-20",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "8cfa41baa956",
+      "username": "admin",
+      "date": "2023-11-21",
+      "restaurant": "Woop park Ljubljana",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "70107dd321e2",
+      "username": "admin",
+      "date": "2023-11-22",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "80134d9cdd77",
+      "username": "admin",
+      "date": "2023-11-23",
+      "restaurant": "Royal Best kebab",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "1329f1229563",
+      "username": "admin",
+      "date": "2023-11-24",
+      "restaurant": "McDonald's Ljubljana Žito",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "7055b6842ae0",
+      "username": "admin",
+      "date": "2023-11-25",
+      "restaurant": "McDonald's Ljubljana Žito",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "b1921678973e",
+      "username": "admin",
+      "date": "2023-11-26",
+      "restaurant": "Radisson Blue restaurant",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "4d822ebcd88c",
+      "username": "user",
+      "date": "2023-11-12",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "c917204faa60",
+      "username": "user",
+      "date": "2023-11-13",
+      "restaurant": "Restavracija Antaro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "6f34bbd04fc7",
+      "username": "user",
+      "date": "2023-11-14",
+      "restaurant": "Hood Burger BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "c5c07b09f057",
+      "username": "user",
+      "date": "2023-11-15",
+      "restaurant": "Restaurant Pogača",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "8d0c27fe90ac",
+      "username": "user",
+      "date": "2023-11-16",
+      "restaurant": "Street Food BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "8f3d1e82272a",
+      "username": "user",
+      "date": "2023-11-17",
+      "restaurant": "diVino restaurant & bar",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "c8feda0e8567",
+      "username": "user",
+      "date": "2023-11-18",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "3b05d8011bea",
+      "username": "user",
+      "date": "2023-11-19",
+      "restaurant": "Njam njam",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "173b54266ebd",
+      "username": "user",
+      "date": "2023-11-20",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "ce173e26fb59",
+      "username": "user",
+      "date": "2023-11-21",
+      "restaurant": "Cojzla",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "4777388bff9c",
+      "username": "user",
+      "date": "2023-11-22",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "072088d37ec6",
+      "username": "user",
+      "date": "2023-11-23",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "0a2050810423",
+      "username": "user",
+      "date": "2023-11-24",
+      "restaurant": "Ajda Premium Burger",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "832c436adfd1",
+      "username": "user",
+      "date": "2023-11-25",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "f56770a6233f",
+      "username": "user",
+      "date": "2023-11-26",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "7fd8b2650f7f",
+      "username": "AnaKovač",
+      "date": "2023-11-12",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "8cda6beede6d",
+      "username": "AnaKovač",
+      "date": "2023-11-13",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "cf453d8cf3ad",
+      "username": "AnaKovač",
+      "date": "2023-11-14",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "9f7f55682046",
+      "username": "AnaKovač",
+      "date": "2023-11-15",
+      "restaurant": "Cojzla",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "1d84a62325ef",
+      "username": "AnaKovač",
+      "date": "2023-11-16",
+      "restaurant": "Ajda Premium Burger",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "4c9020cef933",
+      "username": "AnaKovač",
+      "date": "2023-11-17",
+      "restaurant": "Restavracija Mingo",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "caaefda264e4",
+      "username": "AnaKovač",
+      "date": "2023-11-18",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "a5a0c93eb22f",
+      "username": "AnaKovač",
+      "date": "2023-11-19",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "fcb7c7418b9e",
+      "username": "AnaKovač",
+      "date": "2023-11-20",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "5ce34a18d4b3",
+      "username": "AnaKovač",
+      "date": "2023-11-21",
+      "restaurant": "Luna caffe",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "c5e2fc99dea5",
+      "username": "AnaKovač",
+      "date": "2023-11-22",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "523b57511dac",
+      "username": "AnaKovač",
+      "date": "2023-11-23",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "e08c400fd28b",
+      "username": "AnaKovač",
+      "date": "2023-11-24",
+      "restaurant": "Luna caffe",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "bdcb1223d03e",
+      "username": "AnaKovač",
+      "date": "2023-11-25",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "d36d0985d356",
+      "username": "AnaKovač",
+      "date": "2023-11-26",
+      "restaurant": "Luna caffe",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "7d9f97e1f553",
+      "username": "MarkoNovak",
+      "date": "2023-11-12",
+      "restaurant": "Cojzla",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "d1f999517f09",
+      "username": "MarkoNovak",
+      "date": "2023-11-13",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "9b8a066be5b6",
+      "username": "MarkoNovak",
+      "date": "2023-11-14",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "8172ab0235ba",
+      "username": "MarkoNovak",
+      "date": "2023-11-15",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "d897ded4bde3",
+      "username": "MarkoNovak",
+      "date": "2023-11-16",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "0e8ce0e4a398",
+      "username": "MarkoNovak",
+      "date": "2023-11-17",
+      "restaurant": "McDonald's Ljubljana Žito",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "e720a005d283",
+      "username": "MarkoNovak",
+      "date": "2023-11-18",
+      "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "40b05d6d6c4a",
+      "username": "MarkoNovak",
+      "date": "2023-11-19",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "69aeae4a4a08",
+      "username": "MarkoNovak",
+      "date": "2023-11-20",
+      "restaurant": "Royal Best kebab",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "c79e9750c86e",
+      "username": "MarkoNovak",
+      "date": "2023-11-21",
+      "restaurant": "Subway",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "c8eb1031106b",
+      "username": "MarkoNovak",
+      "date": "2023-11-22",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "d067a97d8b5e",
+      "username": "MarkoNovak",
+      "date": "2023-11-23",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "394a75a13de5",
+      "username": "MarkoNovak",
+      "date": "2023-11-24",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "47d46d8c4aed",
+      "username": "MarkoNovak",
+      "date": "2023-11-25",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "461cb3debd0c",
+      "username": "MarkoNovak",
+      "date": "2023-11-26",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "1ba1a9fa8fb3",
+      "username": "MajaLah",
+      "date": "2023-11-12",
+      "restaurant": "Gostilna Euro Gurman",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "eba287e5f977",
+      "username": "MajaLah",
+      "date": "2023-11-13",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "3c9e2230c56c",
+      "username": "MajaLah",
+      "date": "2023-11-14",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "80e484ec3c64",
+      "username": "MajaLah",
+      "date": "2023-11-15",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "aec1e0229a7d",
+      "username": "MajaLah",
+      "date": "2023-11-16",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "8fc909fedcb1",
+      "username": "MajaLah",
+      "date": "2023-11-17",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "c05661ecf5d9",
+      "username": "MajaLah",
+      "date": "2023-11-18",
+      "restaurant": "Street Food BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "f654c7ba6205",
+      "username": "MajaLah",
+      "date": "2023-11-19",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "7594f67699c7",
+      "username": "MajaLah",
+      "date": "2023-11-20",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "311e6c8b187d",
+      "username": "MajaLah",
+      "date": "2023-11-21",
+      "restaurant": "Argentino",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "7bc829ba2752",
+      "username": "MajaLah",
+      "date": "2023-11-22",
+      "restaurant": "Street Food BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "0e66a5f076c3",
+      "username": "MajaLah",
+      "date": "2023-11-23",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "6d317ab24d1d",
+      "username": "MajaLah",
+      "date": "2023-11-24",
+      "restaurant": "Gostilna Euro Gurman",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "8e18f54e2313",
+      "username": "MajaLah",
+      "date": "2023-11-25",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "46c79bbd566b",
+      "username": "MajaLah",
+      "date": "2023-11-26",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "b6b31526ce5a",
+      "username": "BorisHorvat",
+      "date": "2023-11-12",
+      "restaurant": "McDonald's Ljubljana Žito",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "cfcc375b5643",
+      "username": "BorisHorvat",
+      "date": "2023-11-13",
+      "restaurant": "Street Food BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "b99b1db6f5a6",
+      "username": "BorisHorvat",
+      "date": "2023-11-14",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "a18afc121123",
+      "username": "BorisHorvat",
+      "date": "2023-11-15",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "71876c7a20ab",
+      "username": "BorisHorvat",
+      "date": "2023-11-16",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "cb5636c0b23c",
+      "username": "BorisHorvat",
+      "date": "2023-11-17",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "84b54fae6c41",
+      "username": "BorisHorvat",
+      "date": "2023-11-18",
+      "restaurant": "Restavracija Antaro",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "ece641068875",
+      "username": "BorisHorvat",
+      "date": "2023-11-19",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "fd4aacdb9c9b",
+      "username": "BorisHorvat",
+      "date": "2023-11-20",
+      "restaurant": "Radisson Blue restaurant",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "325fa62005cd",
+      "username": "BorisHorvat",
+      "date": "2023-11-21",
+      "restaurant": "Radisson Blue restaurant",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "4214583f30ea",
+      "username": "BorisHorvat",
+      "date": "2023-11-22",
+      "restaurant": "Njam njam",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "a00387f40a57",
+      "username": "BorisHorvat",
+      "date": "2023-11-23",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "a32822802879",
+      "username": "BorisHorvat",
+      "date": "2023-11-24",
+      "restaurant": "Subway",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "3e0b4992df9c",
+      "username": "BorisHorvat",
+      "date": "2023-11-25",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "f520505fbc81",
+      "username": "BorisHorvat",
+      "date": "2023-11-26",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "50f8387fbb01",
+      "username": "EvaZupan",
+      "date": "2023-11-12",
+      "restaurant": "Luna caffe",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "13869ca2b0fe",
+      "username": "EvaZupan",
+      "date": "2023-11-13",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "b9d812419b48",
+      "username": "EvaZupan",
+      "date": "2023-11-14",
+      "restaurant": "Hood Burger BTC",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "44ed3943288d",
+      "username": "EvaZupan",
+      "date": "2023-11-15",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "7643ef0c9377",
+      "username": "EvaZupan",
+      "date": "2023-11-16",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "043bb1809621",
+      "username": "EvaZupan",
+      "date": "2023-11-17",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "61a9f4cb6304",
+      "username": "EvaZupan",
+      "date": "2023-11-18",
+      "restaurant": "Restavracija Antaro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "62449329a56c",
+      "username": "EvaZupan",
+      "date": "2023-11-19",
+      "restaurant": "Woop park Ljubljana",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "4ded5626a2d0",
+      "username": "EvaZupan",
+      "date": "2023-11-20",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "c03f65c5dc7c",
+      "username": "EvaZupan",
+      "date": "2023-11-21",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "46a7ea2f0598",
+      "username": "EvaZupan",
+      "date": "2023-11-22",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "1d32129cc132",
+      "username": "EvaZupan",
+      "date": "2023-11-23",
+      "restaurant": "Street Food BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "3ec4b5f20b48",
+      "username": "EvaZupan",
+      "date": "2023-11-24",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "8a4a7987a506",
+      "username": "EvaZupan",
+      "date": "2023-11-25",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "e24e4bbd309f",
+      "username": "EvaZupan",
+      "date": "2023-11-26",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "8bf8cd8735e8",
+      "username": "GregorKrajnc",
+      "date": "2023-11-12",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "44ca5b73f601",
+      "username": "GregorKrajnc",
+      "date": "2023-11-13",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "b56cb1b8603c",
+      "username": "GregorKrajnc",
+      "date": "2023-11-14",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "2363de0f3505",
+      "username": "GregorKrajnc",
+      "date": "2023-11-15",
+      "restaurant": "Njam njam",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "3ece98962137",
+      "username": "GregorKrajnc",
+      "date": "2023-11-16",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "d0d98a19c97a",
+      "username": "GregorKrajnc",
+      "date": "2023-11-17",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "d4d3a2ac3522",
+      "username": "GregorKrajnc",
+      "date": "2023-11-18",
+      "restaurant": "Argentino",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "ae692d517777",
+      "username": "GregorKrajnc",
+      "date": "2023-11-19",
+      "restaurant": "Radisson Blue restaurant",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "97e453476560",
+      "username": "GregorKrajnc",
+      "date": "2023-11-20",
+      "restaurant": "Gostilna Euro Gurman",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "63b72e2578e7",
+      "username": "GregorKrajnc",
+      "date": "2023-11-21",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "d197248922a3",
+      "username": "GregorKrajnc",
+      "date": "2023-11-22",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "4ad08647d3bd",
+      "username": "GregorKrajnc",
+      "date": "2023-11-23",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "784998c8074e",
+      "username": "GregorKrajnc",
+      "date": "2023-11-24",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "55e229b71fd0",
+      "username": "GregorKrajnc",
+      "date": "2023-11-25",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "a61deb28e344",
+      "username": "GregorKrajnc",
+      "date": "2023-11-26",
+      "restaurant": "Gostilna Euro Gurman",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "a882dd1200ea",
+      "username": "NinaPetrovič",
+      "date": "2023-11-12",
+      "restaurant": "Luna caffe",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "de137e20d5b9",
+      "username": "NinaPetrovič",
+      "date": "2023-11-13",
+      "restaurant": "Restaurant Pogača",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "3e18377f7db4",
+      "username": "NinaPetrovič",
+      "date": "2023-11-14",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "d9b12615e612",
+      "username": "NinaPetrovič",
+      "date": "2023-11-15",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "df2f9a777e45",
+      "username": "NinaPetrovič",
+      "date": "2023-11-16",
+      "restaurant": "Subway",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "a37d66b64733",
+      "username": "NinaPetrovič",
+      "date": "2023-11-17",
+      "restaurant": "Woop park Ljubljana",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "8cc3d7af3845",
+      "username": "NinaPetrovič",
+      "date": "2023-11-18",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "34295dc31685",
+      "username": "NinaPetrovič",
+      "date": "2023-11-19",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "4af121c2ce8b",
+      "username": "NinaPetrovič",
+      "date": "2023-11-20",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "3e64c0e549e7",
+      "username": "NinaPetrovič",
+      "date": "2023-11-21",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "89727464b51a",
+      "username": "NinaPetrovič",
+      "date": "2023-11-22",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "7e684b8c54b3",
+      "username": "NinaPetrovič",
+      "date": "2023-11-23",
+      "restaurant": "Subway",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "5977c441b82c",
+      "username": "NinaPetrovič",
+      "date": "2023-11-24",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "a67461bda499",
+      "username": "NinaPetrovič",
+      "date": "2023-11-25",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "d2f87ed557b3",
+      "username": "NinaPetrovič",
+      "date": "2023-11-26",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "63661013e219",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-12",
+      "restaurant": "Restavracija Mingo",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "1e5f8d102580",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-13",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "b24b31afe13d",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-14",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "024e0db559cd",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-15",
+      "restaurant": "Gostilna Euro Gurman",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "2c771f346dad",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-16",
+      "restaurant": "McDonald's Ljubljana Žito",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "0d5fd16c7619",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-17",
+      "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "56f6f0c49200",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-18",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "4a25bf1d20c5",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-19",
+      "restaurant": "Gostilna Euro Gurman",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "7e969e3cceb1",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-20",
+      "restaurant": "Restaurant Pogača",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "e3811d046d14",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-21",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "88930fc72ba2",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-22",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "509fcf5ea6d0",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-23",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "9dd0f74d142c",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-24",
+      "restaurant": "Ajda Premium Burger",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "9ce9d18ce5ad",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-25",
+      "restaurant": "Ajda Premium Burger",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "3451f6c12d30",
+      "username": "ŽigaBizjak",
+      "date": "2023-11-26",
+      "restaurant": "Royal Best kebab",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "c7298afdd259",
+      "username": "LaraZorman",
+      "date": "2023-11-12",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "afc49db770ea",
+      "username": "LaraZorman",
+      "date": "2023-11-13",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "43bc5b29701f",
+      "username": "LaraZorman",
+      "date": "2023-11-14",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "5bebb3e700ff",
+      "username": "LaraZorman",
+      "date": "2023-11-15",
+      "restaurant": "Woop park Ljubljana",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "bbe1be2a6a3e",
+      "username": "LaraZorman",
+      "date": "2023-11-16",
+      "restaurant": "Woop park Ljubljana",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "878805dcbabc",
+      "username": "LaraZorman",
+      "date": "2023-11-17",
+      "restaurant": "Argentino",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "568b4c0f7282",
+      "username": "LaraZorman",
+      "date": "2023-11-18",
+      "restaurant": "Argentino",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "40443e9a46b5",
+      "username": "LaraZorman",
+      "date": "2023-11-19",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "12d5f1137a98",
+      "username": "LaraZorman",
+      "date": "2023-11-20",
+      "restaurant": "Ajda Premium Burger",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "3ecaa3467f97",
+      "username": "LaraZorman",
+      "date": "2023-11-21",
+      "restaurant": "Gostilna Euro Gurman",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "062b95b0d4fd",
+      "username": "LaraZorman",
+      "date": "2023-11-22",
+      "restaurant": "Ajda Premium Burger",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "44f0482e1a84",
+      "username": "LaraZorman",
+      "date": "2023-11-23",
+      "restaurant": "Cojzla",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "30f5a045bc24",
+      "username": "LaraZorman",
+      "date": "2023-11-24",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "4836555a0339",
+      "username": "LaraZorman",
+      "date": "2023-11-25",
+      "restaurant": "Restavracija Antaro",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "ae0616819b8d",
+      "username": "LaraZorman",
+      "date": "2023-11-26",
+      "restaurant": "Argentino",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "4e9dd2da4a95",
+      "username": "NikVidmar",
+      "date": "2023-11-12",
+      "restaurant": "Street Food BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "4310fe228370",
+      "username": "NikVidmar",
+      "date": "2023-11-13",
+      "restaurant": "Cojzla",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "d4b26ea55f8c",
+      "username": "NikVidmar",
+      "date": "2023-11-14",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "b33f0263fa10",
+      "username": "NikVidmar",
+      "date": "2023-11-15",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "6fad3779c9b9",
+      "username": "NikVidmar",
+      "date": "2023-11-16",
+      "restaurant": "diVino restaurant & bar",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "d5a100db57ee",
+      "username": "NikVidmar",
+      "date": "2023-11-17",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "cce57e319666",
+      "username": "NikVidmar",
+      "date": "2023-11-18",
+      "restaurant": "Njam njam",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "06f4fb376e4b",
+      "username": "NikVidmar",
+      "date": "2023-11-19",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "a026e3b16b41",
+      "username": "NikVidmar",
+      "date": "2023-11-20",
+      "restaurant": "Royal Best kebab",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "fc88dd6b81a5",
+      "username": "NikVidmar",
+      "date": "2023-11-21",
+      "restaurant": "Luna caffe",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "dacd4791aeb6",
+      "username": "NikVidmar",
+      "date": "2023-11-22",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "22f6c593796d",
+      "username": "NikVidmar",
+      "date": "2023-11-23",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "267dd1ccdc07",
+      "username": "NikVidmar",
+      "date": "2023-11-24",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "2c2cb82d5a79",
+      "username": "NikVidmar",
+      "date": "2023-11-25",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "b9a205bc5d45",
+      "username": "NikVidmar",
+      "date": "2023-11-26",
+      "restaurant": "Street Food BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "e0ed21d756fa",
+      "username": "EvaKobal",
+      "date": "2023-11-12",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "f763704ad8c8",
+      "username": "EvaKobal",
+      "date": "2023-11-13",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "814205867c03",
+      "username": "EvaKobal",
+      "date": "2023-11-14",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "bd3708b93b84",
+      "username": "EvaKobal",
+      "date": "2023-11-15",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "366ac81f3e3d",
+      "username": "EvaKobal",
+      "date": "2023-11-16",
+      "restaurant": "Radisson Blue restaurant",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "6135dbe6869a",
+      "username": "EvaKobal",
+      "date": "2023-11-17",
+      "restaurant": "Cojzla",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "a941c6de5f57",
+      "username": "EvaKobal",
+      "date": "2023-11-18",
+      "restaurant": "Luna caffe",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "15a4d76c38b8",
+      "username": "EvaKobal",
+      "date": "2023-11-19",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "50441167703a",
+      "username": "EvaKobal",
+      "date": "2023-11-20",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "75f207873944",
+      "username": "EvaKobal",
+      "date": "2023-11-21",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "cf94885599ac",
+      "username": "EvaKobal",
+      "date": "2023-11-22",
+      "restaurant": "Cojzla",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "daa122be8ac9",
+      "username": "EvaKobal",
+      "date": "2023-11-23",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "6f837cceeeb1",
+      "username": "EvaKobal",
+      "date": "2023-11-24",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "51d93fae1dfe",
+      "username": "EvaKobal",
+      "date": "2023-11-25",
+      "restaurant": "Njam njam",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "0e11f3b6ec66",
+      "username": "EvaKobal",
+      "date": "2023-11-26",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "be34da7c7a55",
+      "username": "MaticKos",
+      "date": "2023-11-12",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "6b253d2b9b48",
+      "username": "MaticKos",
+      "date": "2023-11-13",
+      "restaurant": "diVino restaurant & bar",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "a6bb06b21123",
+      "username": "MaticKos",
+      "date": "2023-11-14",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "eda478d1cbc6",
+      "username": "MaticKos",
+      "date": "2023-11-15",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "49babf737f46",
+      "username": "MaticKos",
+      "date": "2023-11-16",
+      "restaurant": "Restaurant Pogača",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "26fbde676182",
+      "username": "MaticKos",
+      "date": "2023-11-17",
+      "restaurant": "Woop park Ljubljana",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "5e6c4f126d98",
+      "username": "MaticKos",
+      "date": "2023-11-18",
+      "restaurant": "Restaurant Pogača",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "f70d8c50bb4f",
+      "username": "MaticKos",
+      "date": "2023-11-19",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "a79b818c5d04",
+      "username": "MaticKos",
+      "date": "2023-11-20",
+      "restaurant": "Argentino",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "8c9bf3ee097b",
+      "username": "MaticKos",
+      "date": "2023-11-21",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "328aa0be9a09",
+      "username": "MaticKos",
+      "date": "2023-11-22",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "a926181dc83c",
+      "username": "MaticKos",
+      "date": "2023-11-23",
+      "restaurant": "Njam njam",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "317d86d1acd5",
+      "username": "MaticKos",
+      "date": "2023-11-24",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "dbd417446024",
+      "username": "MaticKos",
+      "date": "2023-11-25",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "b5232cb60188",
+      "username": "MaticKos",
+      "date": "2023-11-26",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "9a9b447a32e0",
+      "username": "ZaraBregar",
+      "date": "2023-11-12",
+      "restaurant": "Radisson Blue restaurant",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "4a01dbc7b55d",
+      "username": "ZaraBregar",
+      "date": "2023-11-13",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "ce23b5f22449",
+      "username": "ZaraBregar",
+      "date": "2023-11-14",
+      "restaurant": "Ajda Premium Burger",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "8d18fc3dd3df",
+      "username": "ZaraBregar",
+      "date": "2023-11-15",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "490307623e78",
+      "username": "ZaraBregar",
+      "date": "2023-11-16",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "73caaee47053",
+      "username": "ZaraBregar",
+      "date": "2023-11-17",
+      "restaurant": "Gostilna Euro Gurman",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "1563e791fcfa",
+      "username": "ZaraBregar",
+      "date": "2023-11-18",
+      "restaurant": "Argentino",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "ae8d12493625",
+      "username": "ZaraBregar",
+      "date": "2023-11-19",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "c96126f659ac",
+      "username": "ZaraBregar",
+      "date": "2023-11-20",
+      "restaurant": "Royal Best kebab",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "f9a7b289aa9a",
+      "username": "ZaraBregar",
+      "date": "2023-11-21",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "a34259fe9e2b",
+      "username": "ZaraBregar",
+      "date": "2023-11-22",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "7ae9e2953107",
+      "username": "ZaraBregar",
+      "date": "2023-11-23",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "25aec32f2c0b",
+      "username": "ZaraBregar",
+      "date": "2023-11-24",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "1ac704fcbc09",
+      "username": "ZaraBregar",
+      "date": "2023-11-25",
+      "restaurant": "Subway",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "361e4da4ca3b",
+      "username": "ZaraBregar",
+      "date": "2023-11-26",
+      "restaurant": "Subway",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "3285c424d1e3",
+      "username": "AlenkaMedved",
+      "date": "2023-11-12",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "a07d448d874f",
+      "username": "AlenkaMedved",
+      "date": "2023-11-13",
+      "restaurant": "Njam njam",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "d95ce41fb8dc",
+      "username": "AlenkaMedved",
+      "date": "2023-11-14",
+      "restaurant": "Royal Best kebab",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "79353ebe20b8",
+      "username": "AlenkaMedved",
+      "date": "2023-11-15",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "af0758677972",
+      "username": "AlenkaMedved",
+      "date": "2023-11-16",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "870f20a705c4",
+      "username": "AlenkaMedved",
+      "date": "2023-11-17",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "3ff282b79b53",
+      "username": "AlenkaMedved",
+      "date": "2023-11-18",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "392b3de99d67",
+      "username": "AlenkaMedved",
+      "date": "2023-11-19",
+      "restaurant": "Radisson Blue restaurant",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "cc62bd6d11cc",
+      "username": "AlenkaMedved",
+      "date": "2023-11-20",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "a5e77338d66a",
+      "username": "AlenkaMedved",
+      "date": "2023-11-21",
+      "restaurant": "Gostilna Euro Gurman",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "9bdc0ccd9190",
+      "username": "AlenkaMedved",
+      "date": "2023-11-22",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "4bca4a9cd168",
+      "username": "AlenkaMedved",
+      "date": "2023-11-23",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "25d677b03567",
+      "username": "AlenkaMedved",
+      "date": "2023-11-24",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "09fd74edc5d1",
+      "username": "AlenkaMedved",
+      "date": "2023-11-25",
+      "restaurant": "Cojzla",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "0bce7c05f653",
+      "username": "AlenkaMedved",
+      "date": "2023-11-26",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "ae13fbd922db",
+      "username": "UrbanCerar",
+      "date": "2023-11-12",
+      "restaurant": "Argentino",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "95f5bfa12111",
+      "username": "UrbanCerar",
+      "date": "2023-11-13",
+      "restaurant": "Ajda Premium Burger",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "5557319b953e",
+      "username": "UrbanCerar",
+      "date": "2023-11-14",
+      "restaurant": "Argentino",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "e9b712fa0994",
+      "username": "UrbanCerar",
+      "date": "2023-11-15",
+      "restaurant": "Njam njam",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "016eb0d57a44",
+      "username": "UrbanCerar",
+      "date": "2023-11-16",
+      "restaurant": "Radisson Blue restaurant",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "fae4b048c870",
+      "username": "UrbanCerar",
+      "date": "2023-11-17",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "248108a9d5c2",
+      "username": "UrbanCerar",
+      "date": "2023-11-18",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "16a52764ab45",
+      "username": "UrbanCerar",
+      "date": "2023-11-19",
+      "restaurant": "Restavracija Antaro",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "0e3968ca227e",
+      "username": "UrbanCerar",
+      "date": "2023-11-20",
+      "restaurant": "Woop park Ljubljana",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "d405d57401bc",
+      "username": "UrbanCerar",
+      "date": "2023-11-21",
+      "restaurant": "Restavracija Mingo",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "9c2c04aaa540",
+      "username": "UrbanCerar",
+      "date": "2023-11-22",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "7bf451dee5b3",
+      "username": "UrbanCerar",
+      "date": "2023-11-23",
+      "restaurant": "Subway",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "22cc515d309d",
+      "username": "UrbanCerar",
+      "date": "2023-11-24",
+      "restaurant": "Restaurant Pogača",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "c4397878fcbb",
+      "username": "UrbanCerar",
+      "date": "2023-11-25",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "f338694112fa",
+      "username": "UrbanCerar",
+      "date": "2023-11-26",
+      "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "fb252ecb3cfb",
+      "username": "LeaPavlin",
+      "date": "2023-11-12",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "c0c81030427f",
+      "username": "LeaPavlin",
+      "date": "2023-11-13",
+      "restaurant": "Njam njam",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "38f32831f722",
+      "username": "LeaPavlin",
+      "date": "2023-11-14",
+      "restaurant": "Subway",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "57f5c365ad78",
+      "username": "LeaPavlin",
+      "date": "2023-11-15",
+      "restaurant": "McDonald's Ljubljana Žito",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "22f3895becf8",
+      "username": "LeaPavlin",
+      "date": "2023-11-16",
+      "restaurant": "diVino restaurant & bar",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "95d5bdc4d475",
+      "username": "LeaPavlin",
+      "date": "2023-11-17",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "10d734e8c76e",
+      "username": "LeaPavlin",
+      "date": "2023-11-18",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "27c35d8543d9",
+      "username": "LeaPavlin",
+      "date": "2023-11-19",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "7b50feadf720",
+      "username": "LeaPavlin",
+      "date": "2023-11-20",
+      "restaurant": "diVino restaurant & bar",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "751691fe44c7",
+      "username": "LeaPavlin",
+      "date": "2023-11-21",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "255f26ca7389",
+      "username": "LeaPavlin",
+      "date": "2023-11-22",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "7b0c4448cafa",
+      "username": "LeaPavlin",
+      "date": "2023-11-23",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "47cfd89985e5",
+      "username": "LeaPavlin",
+      "date": "2023-11-24",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "5bb96e54e956",
+      "username": "LeaPavlin",
+      "date": "2023-11-25",
+      "restaurant": "Radisson Blue restaurant",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "fdec7b3c17f3",
+      "username": "LeaPavlin",
+      "date": "2023-11-26",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "be7ccd198de7",
+      "username": "TjašaKranjec",
+      "date": "2023-11-12",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "c084ead28749",
+      "username": "TjašaKranjec",
+      "date": "2023-11-13",
+      "restaurant": "Argentino",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "1e49108ea738",
+      "username": "TjašaKranjec",
+      "date": "2023-11-14",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "dc7abcc2fe88",
+      "username": "TjašaKranjec",
+      "date": "2023-11-15",
+      "restaurant": "Restaurant Pogača",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "fbb6f507f099",
+      "username": "TjašaKranjec",
+      "date": "2023-11-16",
+      "restaurant": "Restaurant Pogača",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "52765cf79c17",
+      "username": "TjašaKranjec",
+      "date": "2023-11-17",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "4ea9b813581c",
+      "username": "TjašaKranjec",
+      "date": "2023-11-18",
+      "restaurant": "diVino restaurant & bar",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "e91abe064d07",
+      "username": "TjašaKranjec",
+      "date": "2023-11-19",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "6a841754e740",
+      "username": "TjašaKranjec",
+      "date": "2023-11-20",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "329001e1a9e5",
+      "username": "TjašaKranjec",
+      "date": "2023-11-21",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "1ec487c3d371",
+      "username": "TjašaKranjec",
+      "date": "2023-11-22",
+      "restaurant": "Cojzla",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "88e684e0a415",
+      "username": "TjašaKranjec",
+      "date": "2023-11-23",
+      "restaurant": "diVino restaurant & bar",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "defc1afbdf88",
+      "username": "TjašaKranjec",
+      "date": "2023-11-24",
+      "restaurant": "Royal Best kebab",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "6c4d44c0be95",
+      "username": "TjašaKranjec",
+      "date": "2023-11-25",
+      "restaurant": "diVino restaurant & bar",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "2b09c044add4",
+      "username": "TjašaKranjec",
+      "date": "2023-11-26",
+      "restaurant": "Njam njam",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "eff9c5f41c33",
+      "username": "MihaNovak",
+      "date": "2023-11-12",
+      "restaurant": "Restaurant Pogača",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "4c96436dc8ef",
+      "username": "MihaNovak",
+      "date": "2023-11-13",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "afa496300864",
+      "username": "MihaNovak",
+      "date": "2023-11-14",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "2f61f631a16e",
+      "username": "MihaNovak",
+      "date": "2023-11-15",
+      "restaurant": "Restavracija Mingo",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "4bd464963184",
+      "username": "MihaNovak",
+      "date": "2023-11-16",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "238cb93a1785",
+      "username": "MihaNovak",
+      "date": "2023-11-17",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "9406f989c4cc",
+      "username": "MihaNovak",
+      "date": "2023-11-18",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "2ed3ebd7f869",
+      "username": "MihaNovak",
+      "date": "2023-11-19",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "e02ae74ff713",
+      "username": "MihaNovak",
+      "date": "2023-11-20",
+      "restaurant": "Cojzla",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "0df7398fd5c3",
+      "username": "MihaNovak",
+      "date": "2023-11-21",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "c330db06f426",
+      "username": "MihaNovak",
+      "date": "2023-11-22",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "162c99b88822",
+      "username": "MihaNovak",
+      "date": "2023-11-23",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "31fc52524149",
+      "username": "MihaNovak",
+      "date": "2023-11-24",
+      "restaurant": "Subway",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "71225e7b07da",
+      "username": "MihaNovak",
+      "date": "2023-11-25",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "139b6f7e76d1",
+      "username": "MihaNovak",
+      "date": "2023-11-26",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "a20ff1d4f3c2",
+      "username": "KatjaLah",
+      "date": "2023-11-12",
+      "restaurant": "Restavracija Mingo",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "c027bcdd5818",
+      "username": "KatjaLah",
+      "date": "2023-11-13",
+      "restaurant": "McDonald's Ljubljana Žito",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "a0ebcd1c86f6",
+      "username": "KatjaLah",
+      "date": "2023-11-14",
+      "restaurant": "Woop park Ljubljana",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "db038b48a23c",
+      "username": "KatjaLah",
+      "date": "2023-11-15",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "4a8976607b35",
+      "username": "KatjaLah",
+      "date": "2023-11-16",
+      "restaurant": "Restavracija Antaro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "71e5907d1c56",
+      "username": "KatjaLah",
+      "date": "2023-11-17",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "6864b8777818",
+      "username": "KatjaLah",
+      "date": "2023-11-18",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "bc1151903151",
+      "username": "KatjaLah",
+      "date": "2023-11-19",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "094f799c75aa",
+      "username": "KatjaLah",
+      "date": "2023-11-20",
+      "restaurant": "Hood Burger BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "596ff9024d24",
+      "username": "KatjaLah",
+      "date": "2023-11-21",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "934ec42922be",
+      "username": "KatjaLah",
+      "date": "2023-11-22",
+      "restaurant": "Restavracija Mingo",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "b702c69258f5",
+      "username": "KatjaLah",
+      "date": "2023-11-23",
+      "restaurant": "Street Food BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "83faac3583ab",
+      "username": "KatjaLah",
+      "date": "2023-11-24",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "3d3d49082dcc",
+      "username": "KatjaLah",
+      "date": "2023-11-25",
+      "restaurant": "Cojzla",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "c233823a4d45",
+      "username": "KatjaLah",
+      "date": "2023-11-26",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "6f9af8242c4f",
+      "username": "LukaGolob",
+      "date": "2023-11-12",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "3e93073448af",
+      "username": "LukaGolob",
+      "date": "2023-11-13",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "b46c076980d8",
+      "username": "LukaGolob",
+      "date": "2023-11-14",
+      "restaurant": "Subway",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "9e8daf71e29b",
+      "username": "LukaGolob",
+      "date": "2023-11-15",
+      "restaurant": "Gostilna Euro Gurman",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "1b2cc74624f9",
+      "username": "LukaGolob",
+      "date": "2023-11-16",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "a1bd637990cd",
+      "username": "LukaGolob",
+      "date": "2023-11-17",
+      "restaurant": "Restavracija Mingo",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "d1c973d3ea4f",
+      "username": "LukaGolob",
+      "date": "2023-11-18",
+      "restaurant": "Restavracija Antaro",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "8320a612dcfb",
+      "username": "LukaGolob",
+      "date": "2023-11-19",
+      "restaurant": "Woop park Ljubljana",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "5d1d21e284c0",
+      "username": "LukaGolob",
+      "date": "2023-11-20",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "fabe07b2813d",
+      "username": "LukaGolob",
+      "date": "2023-11-21",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "da4fcb01ff0a",
+      "username": "LukaGolob",
+      "date": "2023-11-22",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "e4053163aa7a",
+      "username": "LukaGolob",
+      "date": "2023-11-23",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "73cb54afb5c5",
+      "username": "LukaGolob",
+      "date": "2023-11-24",
+      "restaurant": "Subway",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "02a9715728a4",
+      "username": "LukaGolob",
+      "date": "2023-11-25",
+      "restaurant": "Njam njam",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "24d603055c31",
+      "username": "LukaGolob",
+      "date": "2023-11-26",
+      "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "27d032cfa454",
+      "username": "NinaHribar",
+      "date": "2023-11-12",
+      "restaurant": "diVino restaurant & bar",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "7e7d06a8b331",
+      "username": "NinaHribar",
+      "date": "2023-11-13",
+      "restaurant": "McDonald's Ljubljana Žito",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "c240349d52c4",
+      "username": "NinaHribar",
+      "date": "2023-11-14",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "badbbc97c756",
+      "username": "NinaHribar",
+      "date": "2023-11-15",
+      "restaurant": "Street Food BTC",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "e3049ed14136",
+      "username": "NinaHribar",
+      "date": "2023-11-16",
+      "restaurant": "Gostilna Euro Gurman",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "b5041f59c69e",
+      "username": "NinaHribar",
+      "date": "2023-11-17",
+      "restaurant": "Hood Burger BTC",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "8ae5bb32e061",
+      "username": "NinaHribar",
+      "date": "2023-11-18",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "936fd32f8371",
+      "username": "NinaHribar",
+      "date": "2023-11-19",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "172ab6c255c1",
+      "username": "NinaHribar",
+      "date": "2023-11-20",
+      "restaurant": "Argentino",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "6e05c760ef39",
+      "username": "NinaHribar",
+      "date": "2023-11-21",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "ae2ded4a750e",
+      "username": "NinaHribar",
+      "date": "2023-11-22",
+      "restaurant": "diVino restaurant & bar",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "e59876d57739",
+      "username": "NinaHribar",
+      "date": "2023-11-23",
+      "restaurant": "Woop park Ljubljana",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "8d78ab511439",
+      "username": "NinaHribar",
+      "date": "2023-11-24",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "c26e3dd2687a",
+      "username": "NinaHribar",
+      "date": "2023-11-25",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "d7ce00e59c10",
+      "username": "NinaHribar",
+      "date": "2023-11-26",
+      "restaurant": "Njam njam",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "cae0ee9dce1b",
+      "username": "ŽanZupančič",
+      "date": "2023-11-12",
+      "restaurant": "Ajda Premium Burger",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "82b32a5c23b0",
+      "username": "ŽanZupančič",
+      "date": "2023-11-13",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "0e34b39b5284",
+      "username": "ŽanZupančič",
+      "date": "2023-11-14",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "99d1a2ecb95e",
+      "username": "ŽanZupančič",
+      "date": "2023-11-15",
+      "restaurant": "Argentino",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "26b6e94830e9",
+      "username": "ŽanZupančič",
+      "date": "2023-11-16",
+      "restaurant": "Radisson Blue restaurant",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "cbfca88b7d91",
+      "username": "ŽanZupančič",
+      "date": "2023-11-17",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "5b8979aa7583",
+      "username": "ŽanZupančič",
+      "date": "2023-11-18",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "196313c3309d",
+      "username": "ŽanZupančič",
+      "date": "2023-11-19",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "bf98e6d2f10b",
+      "username": "ŽanZupančič",
+      "date": "2023-11-20",
+      "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "63ff8ffb8829",
+      "username": "ŽanZupančič",
+      "date": "2023-11-21",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "bd4de9eaaff8",
+      "username": "ŽanZupančič",
+      "date": "2023-11-22",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "fbe0c8d4a138",
+      "username": "ŽanZupančič",
+      "date": "2023-11-23",
+      "restaurant": "Njam njam",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "0499f8a18e30",
+      "username": "ŽanZupančič",
+      "date": "2023-11-24",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "c65526d74807",
+      "username": "ŽanZupančič",
+      "date": "2023-11-25",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "a9ca63a982c2",
+      "username": "ŽanZupančič",
+      "date": "2023-11-26",
+      "restaurant": "Njam njam",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "d62ed1e8ae9a",
+      "username": "EmaHafner",
+      "date": "2023-11-12",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "3ab71083c0e2",
+      "username": "EmaHafner",
+      "date": "2023-11-13",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "ab21dab4f20d",
+      "username": "EmaHafner",
+      "date": "2023-11-14",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "5f06c3489d4a",
+      "username": "EmaHafner",
+      "date": "2023-11-15",
+      "restaurant": "Argentino",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "fcb6a15fee9f",
+      "username": "EmaHafner",
+      "date": "2023-11-16",
+      "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "f0e2549b2803",
+      "username": "EmaHafner",
+      "date": "2023-11-17",
+      "restaurant": "Radisson Blue restaurant",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "b457505ae65d",
+      "username": "EmaHafner",
+      "date": "2023-11-18",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "87973c689c85",
+      "username": "EmaHafner",
+      "date": "2023-11-19",
+      "restaurant": "Radisson Blue restaurant",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "0d3b8b5f5ffb",
+      "username": "EmaHafner",
+      "date": "2023-11-20",
+      "restaurant": "Argentino",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "a48c259947da",
+      "username": "EmaHafner",
+      "date": "2023-11-21",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "c07970d12732",
+      "username": "EmaHafner",
+      "date": "2023-11-22",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "d3000e10262c",
+      "username": "EmaHafner",
+      "date": "2023-11-23",
+      "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "ee0113234c98",
+      "username": "EmaHafner",
+      "date": "2023-11-24",
+      "restaurant": "Cojzla",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "f8dc2a94219a",
+      "username": "EmaHafner",
+      "date": "2023-11-25",
+      "restaurant": "Ajda Premium Burger",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "9a78201293e5",
+      "username": "EmaHafner",
+      "date": "2023-11-26",
+      "restaurant": "Argentino",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "b28ef188fa19",
+      "username": "BorutPetrovič",
+      "date": "2023-11-12",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "af348d0fa8c7",
+      "username": "BorutPetrovič",
+      "date": "2023-11-13",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "1302e0f40f62",
+      "username": "BorutPetrovič",
+      "date": "2023-11-14",
+      "restaurant": "Restaurant Pogača",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "323bc373d29c",
+      "username": "BorutPetrovič",
+      "date": "2023-11-15",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "cd22b87387a3",
+      "username": "BorutPetrovič",
+      "date": "2023-11-16",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "d0ced370f3c8",
+      "username": "BorutPetrovič",
+      "date": "2023-11-17",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "fd1bee8b6f58",
+      "username": "BorutPetrovič",
+      "date": "2023-11-18",
+      "restaurant": "McDonald's Ljubljana Žito",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "3c4522114e5d",
+      "username": "BorutPetrovič",
+      "date": "2023-11-19",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "001f9ae690e0",
+      "username": "BorutPetrovič",
+      "date": "2023-11-20",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "a3eb8080798a",
+      "username": "BorutPetrovič",
+      "date": "2023-11-21",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "c303e5651367",
+      "username": "BorutPetrovič",
+      "date": "2023-11-22",
+      "restaurant": "Radisson Blue restaurant",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "83923d350b93",
+      "username": "BorutPetrovič",
+      "date": "2023-11-23",
+      "restaurant": "McDonald's Ljubljana Žito",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "d97f6c97f572",
+      "username": "BorutPetrovič",
+      "date": "2023-11-24",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "0c108abf7847",
+      "username": "BorutPetrovič",
+      "date": "2023-11-25",
+      "restaurant": "Woop park Ljubljana",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "19e19264f53b",
+      "username": "BorutPetrovič",
+      "date": "2023-11-26",
+      "restaurant": "Okrepčevalnica in slaščičarna Azzurro Đemail Ismaili s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "ac6a3b30dd0c",
+      "username": "MašaNovak",
+      "date": "2023-11-12",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "d0cbc2e10e60",
+      "username": "MašaNovak",
+      "date": "2023-11-13",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "75ff57d76f54",
+      "username": "MašaNovak",
+      "date": "2023-11-14",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "9b7213b33be0",
+      "username": "MašaNovak",
+      "date": "2023-11-15",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "3e152a327708",
+      "username": "MašaNovak",
+      "date": "2023-11-16",
+      "restaurant": "Pizzeria Napoli Bojan Tepić s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "4083a3789bd3",
+      "username": "MašaNovak",
+      "date": "2023-11-17",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "a0c387c7577d",
+      "username": "MašaNovak",
+      "date": "2023-11-18",
+      "restaurant": "Subway",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "31af87370831",
+      "username": "MašaNovak",
+      "date": "2023-11-19",
+      "restaurant": "Njam njam",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "b5952f01bf73",
+      "username": "MašaNovak",
+      "date": "2023-11-20",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "861a9e4dce61",
+      "username": "MašaNovak",
+      "date": "2023-11-21",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "2d6fd3ad7001",
+      "username": "MašaNovak",
+      "date": "2023-11-22",
+      "restaurant": "Barbarella BTC Bistro",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "0c15ec57d595",
+      "username": "MašaNovak",
+      "date": "2023-11-23",
+      "restaurant": "Njam njam",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "ee25f7fba971",
+      "username": "MašaNovak",
+      "date": "2023-11-24",
+      "restaurant": "Woop park Ljubljana",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "5d70e096000b",
+      "username": "MašaNovak",
+      "date": "2023-11-25",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "cf85da7aa79a",
+      "username": "MašaNovak",
+      "date": "2023-11-26",
+      "restaurant": "Gostilnica in pizzerija Perla",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "7807a9165899",
+      "username": "TineHribar",
+      "date": "2023-11-12",
+      "restaurant": "Restaurant Pogača",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "e469b205c1f6",
+      "username": "TineHribar",
+      "date": "2023-11-13",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "1fe5dfefb01c",
+      "username": "TineHribar",
+      "date": "2023-11-14",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "f2d417f590dc",
+      "username": "TineHribar",
+      "date": "2023-11-15",
+      "restaurant": "Street Food BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "52120100fd8e",
+      "username": "TineHribar",
+      "date": "2023-11-16",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "25b755a6a778",
+      "username": "TineHribar",
+      "date": "2023-11-17",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "4e5964606fc4",
+      "username": "TineHribar",
+      "date": "2023-11-18",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "474560de9040",
+      "username": "TineHribar",
+      "date": "2023-11-19",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "0f878131601c",
+      "username": "TineHribar",
+      "date": "2023-11-20",
+      "restaurant": "FNX Kavarna & Bistro",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "7f7a226fab0b",
+      "username": "TineHribar",
+      "date": "2023-11-21",
+      "restaurant": "Bon Appetit",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "0f1a01a29c1a",
+      "username": "TineHribar",
+      "date": "2023-11-22",
+      "restaurant": "Chang, Ljubljana BTC",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "5be14eb18373",
+      "username": "TineHribar",
+      "date": "2023-11-23",
+      "restaurant": "Gostilna in pizzerija BREZA",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "e34822b7cf0f",
+      "username": "TineHribar",
+      "date": "2023-11-24",
+      "restaurant": "Argentino",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "34d3e8d927d9",
+      "username": "TineHribar",
+      "date": "2023-11-25",
+      "restaurant": "PICAROLE WOOP! KARTING",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "2ea6545348ec",
+      "username": "TineHribar",
+      "date": "2023-11-26",
+      "restaurant": "Argentino",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "0fd53e1838f2",
+      "username": "AnaKorošec",
+      "date": "2023-11-12",
+      "restaurant": "McDonald's Ljubljana Žito",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "872feb9a6b1d",
+      "username": "AnaKorošec",
+      "date": "2023-11-13",
+      "restaurant": "GOSTILNA POD KOSTANJI",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "3ee389e736c7",
+      "username": "AnaKorošec",
+      "date": "2023-11-14",
+      "restaurant": "Lunch at the ranch",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "855958c5af77",
+      "username": "AnaKorošec",
+      "date": "2023-11-15",
+      "restaurant": "5DU-sendvič4you, Petra Mihajlović s.p.",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "73bdcadf732e",
+      "username": "AnaKorošec",
+      "date": "2023-11-16",
+      "restaurant": "Subway",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "3c8f47d6a75f",
+      "username": "AnaKorošec",
+      "date": "2023-11-17",
+      "restaurant": "Njam njam",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "196878acfdfe",
+      "username": "AnaKorošec",
+      "date": "2023-11-18",
+      "restaurant": "Njam njam",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "65ed7f0b5702",
+      "username": "AnaKorošec",
+      "date": "2023-11-19",
+      "restaurant": "Gostilna in pizzerija Jurman",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "295d9ccceedf",
+      "username": "AnaKorošec",
+      "date": "2023-11-20",
+      "restaurant": "Radisson BLU breakfast Bar",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "d983b7a6906c",
+      "username": "AnaKorošec",
+      "date": "2023-11-21",
+      "restaurant": "Gostilna Euro Gurman",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "9bcd17e5ae5e",
+      "username": "AnaKorošec",
+      "date": "2023-11-22",
+      "restaurant": "Street Food BTC",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "db8461403a67",
+      "username": "AnaKorošec",
+      "date": "2023-11-23",
+      "restaurant": "Zlata ribica, gostinstvo, d.o.o. - V stečaju",
+      "lunch_time": "11:00"
+  },
+  {
+      "_id": "2322290642dd",
+      "username": "AnaKorošec",
+      "date": "2023-11-24",
+      "restaurant": "Zmajev paviljon",
+      "lunch_time": "12:00"
+  },
+  {
+      "_id": "68b4c8c36e41",
+      "username": "AnaKorošec",
+      "date": "2023-11-25",
+      "restaurant": "Ajda Premium Burger",
+      "lunch_time": "13:00"
+  },
+  {
+      "_id": "c9a06677bcf3",
+      "username": "AnaKorošec",
+      "date": "2023-11-26",
+      "restaurant": "Njam njam",
+      "lunch_time": "12:00"
+  }
 ]

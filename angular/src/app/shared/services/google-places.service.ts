@@ -5,7 +5,7 @@ import { HttpClient } from '@angular/common/http';
   providedIn: 'root'
 })
 export class GooglePlacesService {
-  private apiKey = 'private';
+  private apiKey = 'AIzaSyA9tGnvlCa133eELgbvg1e4jSOwws6Uoxc';
 
   constructor(private http: HttpClient) { }
 

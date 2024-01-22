@@ -5,7 +5,7 @@ let dbURI = "mongodb://127.0.0.1/LunchBuddy";
 if (process.env.NODE_ENV === "production")
     dbURI = process.env.MONGODB_ATLAS_URI;
 else if (process.env.NODE_ENV === "test")
-    dbURI = "mongodb://localhost:27017/LunchBuddy";
+    dbURI = "mongodb://lunch-buddy-mongo-db/LunchBuddy";
 
 mongoose.connect(dbURI);
 
