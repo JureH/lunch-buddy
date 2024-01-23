@@ -21,8 +21,6 @@ services:
       - JWT_SECRET=mySecretPassword
     networks:
       - web-dev-network
-    volumes:
-      - node-api-data:/app/data
 
   mongo-db:
     image: mongo
@@ -48,5 +46,4 @@ networks:
     driver: bridge
 
 volumes:
-  node-api-data:
   mongo-data:
