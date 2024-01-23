@@ -1,50 +1,66 @@
-# LunchBuddy - DevOps Akademija lastni projekt
+# Lunch Buddy Application
 
-## Opis aplikacije
+This repository contains the Docker Compose configuration for setting up the Lunch Buddy application, which consists of Angular front-end, Node.js API, MongoDB for data storage, and Redis for caching.
 
-LunchBuddy je spletna aplikacija, ki omogoča dogovarjanje med sodelavci v podjetju kdaj in kam bi šli na malico. Uporabnik lahko vsak dan označi kdaj ima čas in v katero restavracijo bi šel. Aplikacija prijavljenim uporabnikom prikazuje seznam restavracij, ki so bile izbrane za tekoči dan in število ljudi, ki bi šlo na to lokacijo ob določeni uri. Lokacije so označene tudi na zemljevidu. Možen je tudi pogovor med uporabniki, komentiranje in ocenjevanje restavracij. 
+## Prerequisites
 
-## Zaslonske maske
-- [Login](/docs/login.html) Pogled kjer se uporabnik prijavi v aplikacijo.
-- [Registration](/docs/registration.html) Pogled za registracijo novega uporabnika.
-- [Main page](/docs/index.html) Pogled kjer je na vrhu seznam izbranih restavracij za trenutni dan in število ljudi, ki jo je izbralo. Seznam je možno filtrirati glede na časovni okvir. Ob kliku na restavracijo se pojavijo podrobnejše informacije o restavraciji. Ob kliku na število ljudi pokaže imena ljudi, ki so izbrali to restavracijo. Pod seznamom je zemljevid kjer so označene te restavracije na zemljevidu. Pod zemljevidom je chat med uporabniki.
-- [List of restaurants](/docs/list_restaurants.html) Pogled kjer so navedene vse restavracije z osnovnimi informacijami. Na vrhu je iskalnik, ki filtrira restavracije. Ob kliku na restavracijo se pojavijo podrobnejše informacije o restavraciji.
-- [Add restaurant](/docs/add_restaurant.html) Pogled kjer uporabnik lahko dodaja restavracije. Ob vnosu imena se apilkacija poveže na Google Places API in ponudi možnosti. Ko uporabnik izbere možnost se doda restavracijo na seznam skupaj s podatki pridobljenimi iz API-ja.
-- [Restaurant](/docs/restaurant.html) Pogled kjer so podrobne informacije o restavraciji in komentarji uporabnikov. 
-- [Admin panel](/docs/admin_page.html) Pogled kjer administrator lahko ureja in odstranjuje uporabnike, restavracije, komentarje.
+Ensure that Docker is installed on your machine.
 
+## Getting Started
 
-## Tipi uporabnikov
-- **Neprijavljen uporabnik** - lahko vidi osnovno stran, ne more dodajati restavracij, glasovati ali komentirati
-- **Prijavljen uporabnik** - lahko uporablja stran, vidi izbiro sodelavcev, dodaja nove restavracije, klepeta z ostalimi uporabniki, oddaja komentarje
-- **Administrator** - poleg pravic, ki jih ima prijavljen uporabnik lahko administrator tudi odstrani uporabnike, restavracije, komentarje
+1. Clone this repository to your local machine:
 
-## Povezava do predstavitve
+    ```bash
+    git clone https://github.com/JureH/lunch-buddy.git
+    cd lunch-buddy
+    ```
 
-[Google presentation link](https://docs.google.com/presentation/d/1GNJgRIxggiAauJ3ZjBR1sygoK6rlpgJPArJ1MX7-_cI/edit?usp=sharing)
+2. Run the following command to start the application:
 
-## Povezava do aplikacije
+    ```bash
+    docker-compose up -d
+    ```
 
-[render link](https://test-xzc6.onrender.com)
+    This will build and start the containers defined in the `docker-compose.yml` file.
 
-## Lokalni zagon aplikacije (docker)
+3. Access the Angular app in your web browser at [http://localhost:4200](http://localhost:4200).
 
-Server in lokalno bazo zaženemo z ukazom "docker-compose up".
+## Services
 
-Za zagon angular spletne strani se premaknemo v mapo angular in zaženemo ukaz "ng serve".
+### Angular App
 
-Stran je dostopna na [localhost:4200/]
+- Container Name: `lunch-buddy-angular-app`
+- Port Mapping: `4200:80`
+- Dockerfile: `./angular/Dockerfile`
 
-## Ustvarjeni uporabniki
+### Node.js API
 
-**Administrator:**
+- Container Name: `lunch-buddy-node-api`
+- Port Mapping: `3000:3000`
+- Image: `lunch-buddy-server`
+- Environment Variables:
+  - `NODE_ENV: test`
+  - `JWT_SECRET: mySecretPassword`
 
-email: admin@website.net
+### MongoDB
 
-geslo: admin
+- Image: `mongo`
+- Container Name: `lunch-buddy-mongo-db`
+- Port Mapping: `27017:27017`
+- Volume: `mongo-data:/data/db`
 
-**Prijavljen uporabnik:**
+### Redis
 
-email: user@website.net
+- Image: `redis:latest`
+- Container Name: `lunch-buddy-redis`
+- Port Mapping: `6379:6379`
 
-geslo: user
+## Networks
+
+- Network Name: `lunch-buddy-network`
+- Driver: `bridge`
+
+## Volumes
+
+- Volume Name: `mongo-data`
+
