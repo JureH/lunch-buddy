@@ -11,7 +11,7 @@ on:
 
 env:
   DOCKER_REGISTRY: ghcr.io
-  DOCKER_IMAGE_NAME: ${{ github.repository }}
+  DOCKER_IMAGE_NAME: ${{ github.repository }}-express
 
 jobs:
   build-and-push-docker-image:
