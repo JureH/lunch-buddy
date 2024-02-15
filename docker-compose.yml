@@ -1,0 +1,22 @@
+services:
+  angular-app:
+    container_name: lunch-buddy-angular-app
+    build:
+      context: ./angular
+
+node-api:
+  container_name: lunch-buddy-node-api
+  image: lunch-buddy-server
+  build: ./
+  environment:
+    - NODE_ENV=test
+    - JWT_SECRET=mySecretPassword
+  depends_on:
+    - mongo-db
+
+  mongo-db:
+    image: mongo
+    container_name: lunch-buddy-mongo-db
+    volumes:
+      - mongo-data:/data/db
+
