@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: express-app
-        image: myproject/express-app:1.0.0
+        image: ghcr.io/jureh/lunch-buddy-express:latest
         ports:
           - containerPort: 3000
         env:
