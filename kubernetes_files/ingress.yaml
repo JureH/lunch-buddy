@@ -1,0 +1,23 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: my-ingress
+spec:
+  rules:
+    - host: essa-vm-08.lrk.si
+      http:
+        paths:
+          - path: /angular
+            pathType: Prefix
+            backend:
+              service:
+                name: angular-app
+                port:
+                  number: 80
+          - path: /express
+            pathType: Prefix
+            backend:
+              service:
+                name: express-app
+                port:
+                  number: 3000
