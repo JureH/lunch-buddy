@@ -1,17 +1,18 @@
 const mongoose = require('mongoose');
 
-let dbURI = "mongodb://127.0.0.1/LunchBuddy";
+let dbURI = "mongodb://127.0.0.1/";
 
 if (process.env.NODE_ENV === "production")
     dbURI = process.env.MONGODB_URI;
 else if (process.env.NODE_ENV === "test")
-    dbURI = "mongodb://lunch-buddy-mongo-db/LunchBuddy";
+    dbURI = "mongodb://lunch-buddy-mongo-db/";
 
 mongoose.connect(dbURI);
 
-mongoose.connection.on("connected", () =>
-    console.log(`Mongoose connected to ${dbURI.replace(/:.+?@/, ":*****@")}.`)
-);
+mongoose.connection.on("connected", () => {
+    console.log(`Mongoose connected to ${dbURI.replace(/:.+?@/, ":*****@")}.`);
+    mongoose.connection.useDb('LunchBuddy');
+});
 mongoose.connection.on("error", (err) =>
     console.log(`Mongoose connection error: ${err}.`)
 );
