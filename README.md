@@ -1,66 +1,49 @@
 # Lunch Buddy Application
 
-This repository contains the Docker Compose configuration for setting up the Lunch Buddy application, which consists of Angular front-end, Node.js API, MongoDB for data storage, and Redis for caching.
+## Overview
 
-## Prerequisites
+This repository contains Express server backend and Angular frontend app for Lunch Buddy. There are also kubernetes configuration files that create kubernetes cluster containing those two elements along with Mongo database and Ingress controller.
 
-Ensure that Docker is installed on your machine.
+## Components
 
-## Getting Started
+Kubernetes Cluster:
 
-1. Clone this repository to your local machine:
+The Kubernetes cluster is deployed on the VM essa-vm-08.lrk.si.
+The cluster includes multiple worker nodes for distributing the workload.
 
-    ```bash
-    git clone https://github.com/JureH/lunch-buddy.git
-    cd lunch-buddy
-    ```
+Cert-manager:
 
-2. Run the following command to start the application:
+Cert-manager is installed within the Kubernetes cluster to manage TLS certificates.
+Let's Encrypt is used as the certificate issuer to provide HTTPS encryption for our application.
 
-    ```bash
-    docker-compose up -d
-    ```
+Ingress Controller:
 
-    This will build and start the containers defined in the `docker-compose.yml` file.
+Nginx Ingress Controller is deployed to manage incoming HTTP and HTTPS traffic.
+Ingress resources are defined to route requests to the appropriate services based on hostname and path.
 
-3. Access the Angular app in your web browser at [http://localhost:4200](http://localhost:4200).
+Application Stack:
 
-## Services
+Angular App:
 
-### Angular App
+The frontend Angular application provides the user interface.
+It is deployed as a Kubernetes Deployment with multiple replicas for scalability.
+The Angular app service is exposed internally within the cluster.
 
-- Container Name: `lunch-buddy-angular-app`
-- Port Mapping: `4200:80`
-- Dockerfile: `./angular/Dockerfile`
+Express.js App:
 
-### Node.js API
+The backend Express.js application serves as the API server for the frontend.
+It is deployed as a Kubernetes Deployment with multiple replicas for scalability.
+The Express.js app service is exposed internally within the cluster.
 
-- Container Name: `lunch-buddy-node-api`
-- Port Mapping: `3000:3000`
-- Image: `lunch-buddy-server`
-- Environment Variables:
-  - `NODE_ENV: test`
-  - `JWT_SECRET: mySecretPassword`
+MongoDB:
 
-### MongoDB
+MongoDB is used as the database for storing application data.
+It is deployed as a stateful set to ensure data persistence.
+The MongoDB service is exposed internally within the cluster.
 
-- Image: `mongo`
-- Container Name: `lunch-buddy-mongo-db`
-- Port Mapping: `27017:27017`
-- Volume: `mongo-data:/data/db`
+## Deployment Workflow
 
-### Redis
+The application source code is stored in this repository, upon push to the repository it automaticly buids and pushes images to ghcr.io docker registry.
 
-- Image: `redis:latest`
-- Container Name: `lunch-buddy-redis`
-- Port Mapping: `6379:6379`
 
-## Networks
-
-- Network Name: `lunch-buddy-network`
-- Driver: `bridge`
-
-## Volumes
-
-- Volume Name: `mongo-data`
 
