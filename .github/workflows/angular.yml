@@ -6,6 +6,8 @@ on:
       - 'main'
     tags:
       - 'v*.*.*'
+    paths:
+      - 'angular/**'
   pull_request:
   workflow_dispatch:
 
