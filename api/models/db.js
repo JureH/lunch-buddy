@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 let dbURI = "mongodb://127.0.0.1/LunchBuddy";
 
 if (process.env.NODE_ENV === "production")
-    dbURI = process.env.MONGODB_ATLAS_URI;
+    dbURI = process.env.MONGODB_URI;
 else if (process.env.NODE_ENV === "test")
     dbURI = "mongodb://lunch-buddy-mongo-db/LunchBuddy";
 

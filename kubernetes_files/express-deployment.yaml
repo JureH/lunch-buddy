@@ -18,15 +18,15 @@ spec:
         ports:
           - containerPort: 3000
         env:
-        - name: MONGO_DB_USERNAME
+        - name: NODE_ENV
+          value: "production"
+        - name: JWT_SECRET
           valueFrom:
             secretKeyRef:
-              name: mongodb
-              key: MONGO_INITDB_ROOT_USERNAME
-        - name: MONGO_DB_PASSWORD
+              name: jwt-secret
+              key: JWT_SECRET
+        - name: MONGODB_URI
           valueFrom:
             secretKeyRef:
-              name: mongodb
-              key: MONGO_INITDB_ROOT_PASSWORD
-        - name: MONGO_DB_HOST
-          value: mongodb.default.svc
+              name: mongodb-uri
+              key: MONGODB_URI
