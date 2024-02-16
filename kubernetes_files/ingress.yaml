@@ -2,7 +2,13 @@ apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
   name: my-ingress
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt-prod
 spec:
+  tls:
+    - hosts:
+        - essa-vm-08.lrk.si
+      secretName: tls-secret
   rules:
     - host: essa-vm-08.lrk.si
       http:
