@@ -13,14 +13,14 @@ spec:
     - host: essa-vm-08.lrk.si
       http:
         paths:
-          - path: /angular
+          - path: /
             pathType: Prefix
             backend:
               service:
                 name: angular-app
                 port:
                   number: 80
-          - path: /express
+          - path: /api
             pathType: Prefix
             backend:
               service:
